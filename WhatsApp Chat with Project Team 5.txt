@@ -1,0 +1,1703 @@
+11/20/23, 20:45 - JayaLakshmi CSE: Hi
+11/20/23, 20:46 - Joni CSE: Hi
+11/20/23, 20:46 - JayaLakshmi CSE: Andaru mana team project deni meedha chedham ani discuss chedham mi opinions cheppandi
+11/20/23, 20:47 - JayaLakshmi CSE: Wednesday rakesh sir vachi mana problem statement cheppamannaru
+11/20/23, 20:47 - JayaLakshmi CSE: So ee lopu think cheyandi
+11/20/23, 20:52 - Manikanta CSE: Ok
+1/26/24, 10:44 - JayaLakshmi CSE: Hello
+1/26/24, 10:45 - Joni CSE: Hi
+1/26/24, 10:45 - JayaLakshmi CSE: Rakesh sir 29th project fix cheyali annaru
+1/26/24, 10:46 - JayaLakshmi CSE: So 29th afternoon andaru vachi rakesh sir ni meet avvali
+1/26/24, 10:47 - JayaLakshmi CSE: Ee lopu manam oka 5 to 6 projects choosthe veetilo okati sir pick chestaru
+1/26/24, 14:43 - JayaLakshmi CSE: https://github.com/Durgaprasad-kakarla/Temple-Run-Game-Controlling-using-Body-Posture
+1/26/24, 14:58 - JayaLakshmi CSE: Repu afternoon group meeting vuntadi
+1/26/24, 14:58 - JayaLakshmi CSE: So andaru 2 project ideas cheppali
+1/26/24, 14:58 - Lokesh Sinha: Ok leader👍
+1/26/24, 14:59 - Lokesh Sinha: Afternoon eh time ki leader?
+1/27/24, 09:25 - Manikanta CSE: <Media omitted>
+1/27/24, 11:05 - Lokesh Sinha: Ekkada ra eevi
+1/27/24, 11:05 - Manikanta CSE: Maa friend ni adiga
+Vere college
+1/27/24, 11:06 - Lokesh Sinha: Eh domian lo vunayi anta
+1/27/24, 11:06 - Manikanta CSE: Nenu choodaledhu ra
+1/27/24, 11:07 - Manikanta CSE: Vadini adiganu
+1/27/24, 11:07 - Manikanta CSE: Ivvi anni pettadu Naku
+1/27/24, 11:09 - JayaLakshmi CSE: https://github.com/topics/web-development-project
+1/27/24, 11:10 - JayaLakshmi CSE: https://github.com/topics/data-analyst
+1/27/24, 11:11 - JayaLakshmi CSE: https://github.com/topics/attendance-management-system?l=php
+1/27/24, 12:52 - Lokesh Sinha: eevi ani web development meedaney cheysaru
+1/27/24, 12:52 - Lokesh Sinha: ippudu aa websites open kuda avvatle
+1/27/24, 14:12 - Vijay CSE: https://projecttunnel.com/category/Computer-Science#
+1/27/24, 14:12 - JayaLakshmi CSE: Guys andaru 3 or 3.30 ki mi projects anukunnavi ideas cheppali
+1/27/24, 14:12 - JayaLakshmi CSE: Meet lo
+1/27/24, 14:12 - JayaLakshmi CSE: Be ready
+1/27/24, 14:13 - JayaLakshmi CSE: Andaru free ga ne vunnaru kadha
+1/27/24, 14:13 - JayaLakshmi CSE: Avaru ayina busy aa
+1/27/24, 14:13 - JayaLakshmi CSE: Aa tym lo
+1/27/24, 14:13 - Vijay CSE: mana team ki meet aa
+1/27/24, 14:13 - JayaLakshmi CSE: Yes
+1/27/24, 14:14 - Vijay CSE: ok
+1/27/24, 14:14 - JayaLakshmi CSE: Okokallu 2 cheppali
+1/27/24, 14:23 - Joni CSE: https://github.com/kishan0725/Hospital-Management-System
+1/27/24, 15:12 - Manikanta CSE: https://github.com/codebasics/potato-disease-classification
+1/27/24, 15:47 - JayaLakshmi CSE: Meeting eppudu pedadham andaru respond avvandi
+1/27/24, 15:47 - JayaLakshmi CSE: Mi project explain cheyali <This message was edited>
+1/27/24, 15:49 - Lokesh Sinha: 5 ok?
+1/27/24, 15:49 - JayaLakshmi CSE: Ok
+1/27/24, 15:49 - JayaLakshmi CSE: Andaru respond avvandi
+1/27/24, 15:49 - JayaLakshmi CSE: Koncham
+1/27/24, 17:02 - Manikanta CSE: 5:15 ok
+1/27/24, 17:03 - JayaLakshmi CSE: andaru respond avvandi andariki 5.15 ok na
+1/27/24, 17:03 - JayaLakshmi CSE: malli sir ki cheppali kadha 29th decide avudham
+1/27/24, 17:05 - Lokesh Sinha: Okk
+1/27/24, 17:05 - JayaLakshmi CSE: idhe last inka postpone cheyadhu
+1/27/24, 17:06 - Lokesh Sinha: https://meet.google.com/drv-ecch-tzx
+1/27/24, 17:15 - JayaLakshmi CSE: Join the meet
+1/27/24, 17:15 - JayaLakshmi CSE: <Media omitted>
+1/27/24, 17:16 - JayaLakshmi CSE: <Media omitted>
+1/27/24, 17:17 - Lokesh Sinha: rey babu 5:15 aipoyindhi
+1/27/24, 17:17 - JayaLakshmi CSE: Ha
+1/27/24, 17:17 - JayaLakshmi CSE: Join avvandi
+1/27/24, 17:18 - Joni CSE: Andharu ayyaru
+1/27/24, 17:18 - Joni CSE: Start cheyyandi
+1/28/24, 17:14 - JayaLakshmi CSE: Any new ideas regarding project
+1/28/24, 17:15 - Manikanta CSE: *Deep fake detection* 
+
+https://github.com/dessa-oss/DeepFake-Detection
+
+https://github.com/selimsef/dfdc_deepfake_challenge
+
+
+
+https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection
+
+https://web.stanford.edu/class/archive/cs/cs221/cs221.1186/project-list.html
+
+https://github.com/amirziai/cs221-ai-project
+
+
+
+https://github.com/Ayush-Shirsat/EfficientNet_DR
+
+
+ *Retinopathy detection* 
+
+https://github.com/Shaily-Kumari/Diabetic_Retinopathy_Detection
+
+
+https://github.com/lely475/Deep-Learning-Lab-2021/blob/master/Project1-Diabetic_Retinopathy/diabetic_retinopathy/documentation/poster-team15.pdf
+
+
+
+https://github.com/abhishekchaturvedi10/Diabetic-Retinopathy-Analyzer
+
+
+Steganography of image,audio , video
+
+https://github.com/Sohambasu07/DR_2021
+1/29/24, 11:56 - Vijay CSE: <Media omitted>
+1/29/24, 11:57 - Lokesh Sinha: Andaru eela document cheysi peydithey
+1/29/24, 11:57 - Lokesh Sinha: Sir ki choopinchi nappudu baguntagi
+1/29/24, 12:28 - Vijay CSE: <Media omitted>
+1/29/24, 14:02 - JayaLakshmi CSE: Afternoon clg ki vasthara
+1/29/24, 14:03 - Lokesh Sinha: Memu clg loney vunam
+1/29/24, 14:03 - JayaLakshmi CSE: Oh
+1/29/24, 14:03 - JayaLakshmi CSE: Nen ippude vachanu intiki
+1/29/24, 14:06 - Joni CSE: Malli ra CLG ki
+1/29/24, 14:07 - JayaLakshmi CSE: Vastha
+1/29/24, 14:07 - JayaLakshmi CSE: Tinesi
+1/29/24, 14:07 - Joni CSE: Ok
+1/29/24, 14:07 - Lokesh Sinha: Maku kuda patukostey baguntadhi
+1/29/24, 14:07 - JayaLakshmi CSE: Ha ok
+1/29/24, 14:36 - Lokesh Sinha: Jaya
+1/29/24, 14:36 - JayaLakshmi CSE: Ha
+1/29/24, 14:36 - JayaLakshmi CSE: Cheppu
+1/29/24, 14:36 - Lokesh Sinha: Fast vastey fast velipodam
+1/29/24, 14:36 - Lokesh Sinha: @919381498272
+1/29/24, 14:36 - JayaLakshmi CSE: Ha sir vunnara
+1/29/24, 14:36 - JayaLakshmi CSE: Ok andaru vunnara
+1/29/24, 14:37 - Lokesh Sinha: Haa
+1/29/24, 14:37 - JayaLakshmi CSE: Ok
+1/29/24, 14:37 - Lokesh Sinha: Sir leru
+1/29/24, 14:37 - JayaLakshmi CSE: Vastha lap akarledhu ga
+1/29/24, 14:37 - Lokesh Sinha: Projects konni finalize chedam ani
+1/29/24, 14:39 - JayaLakshmi CSE: Haq
+1/29/24, 17:00 - Lokesh Sinha: Rakesh sir kinda teams ni repu mng rammannaru, Afternoon malli edo work undi anta so mng randi annaru andarni
+1/29/24, 17:00 - JayaLakshmi CSE: Ha
+1/29/24, 17:00 - JayaLakshmi CSE: Ok
+1/29/24, 22:53 - Manikanta CSE: <Media omitted>
+1/30/24, 08:26 - JayaLakshmi CSE: https://github.com/topics/crop-recommendation
+1/30/24, 09:34 - Joni CSE: Vacchara
+1/30/24, 09:34 - Joni CSE: CLG ki
+1/30/24, 09:35 - Joni CSE: Eppudu meet avvali sir ni
+1/30/24, 09:35 - Manikanta CSE: Sir vacharu
+1/30/24, 09:35 - Manikanta CSE: Already
+1/30/24, 09:36 - Joni CSE: Mari manam
+1/30/24, 09:45 - JayaLakshmi CSE: Meeru aa room lo vunnaru
+1/30/24, 09:46 - Joni CSE: Lab dheggara
+1/30/24, 09:46 - Joni CSE: Vunnam
+1/30/24, 09:46 - JayaLakshmi CSE: Ok
+1/30/24, 09:55 - Joni CSE: <Media omitted>
+1/30/24, 10:07 - Lokesh Sinha: Evani oka wordlo merge chyandi raa
+1/30/24, 10:07 - JayaLakshmi CSE: Ha
+1/30/24, 10:07 - JayaLakshmi CSE: U come
+1/30/24, 10:08 - Lokesh Sinha: Vacheystuna
+1/30/24, 10:08 - Lokesh Sinha: Inka kudirithey add cheyandii
+1/30/24, 10:50 - JayaLakshmi CSE: https://github.com/topics/learning-management-system
+1/31/24, 13:48 - Manikanta CSE: <Media omitted>
+1/31/24, 14:32 - Vijay CSE: Idhi finalise chesara
+1/31/24, 14:51 - Manikanta CSE: Ha vellanu
+1/31/24, 14:51 - Manikanta CSE: Ippude
+1/31/24, 14:57 - Vijay CSE: Okay
+1/31/24, 15:19 - Manikanta CSE: Guys
+1/31/24, 15:20 - Manikanta CSE: Project manalni select chesukomannaru
+1/31/24, 15:21 - Manikanta CSE: Em chedham mari
+1/31/24, 18:17 - JayaLakshmi CSE: Ur wish
+1/31/24, 18:17 - JayaLakshmi CSE: Say ur opinions
+1/31/24, 20:20 - Lokesh Sinha: Baga cheydam... Manchi projects cheydam
+1/31/24, 20:22 - JayaLakshmi CSE: Em chedham oo cheppu
+1/31/24, 20:23 - Lokesh Sinha: Oka idea vundhi ....Birthday ki money collect cheysi cake cut cheyistan ga
+1/31/24, 20:23 - Lokesh Sinha: Adhi automatic cheysi andari accounts lo nunchi kontha amount cut ayyela cheydam
+1/31/24, 20:23 - Lokesh Sinha: Ela vundhi😅
+1/31/24, 20:24 - JayaLakshmi CSE: Meeku enti use antaru
+1/31/24, 20:24 - JayaLakshmi CSE: Veetilo okati annara <This message was edited>
+1/31/24, 20:25 - Lokesh Sinha: Arey entha kastamo telsa aa pani
+1/31/24, 20:25 - Manikanta CSE: Yes
+1/31/24, 20:25 - Lokesh Sinha: Naku matrame telusu
+1/31/24, 20:26 - JayaLakshmi CSE: Lokesh aa 3 lo one anta
+1/31/24, 20:26 - JayaLakshmi CSE: Avunu avunu
+1/31/24, 20:26 - Lokesh Sinha: Ok cheptaa
+1/31/24, 21:08 - JayaLakshmi CSE: Ha
+2/9/24, 11:39 - JayaLakshmi CSE: hello guys
+2/9/24, 11:39 - JayaLakshmi CSE: avaru ayina nrt lo ne vunnara
+2/9/24, 11:40 - JayaLakshmi CSE: sir aa 3 annaru kabtti aa 3 ki manam abstract ready chesi vundham
+2/9/24, 11:40 - JayaLakshmi CSE: koncham respond avvandi
+2/9/24, 11:40 - JayaLakshmi CSE: group ga chedham
+2/9/24, 11:46 - JayaLakshmi CSE: kudirithe nen ivvala nyt ki nrt veltha so work ayipothe choopistha sir ki
+2/9/24, 11:46 - JayaLakshmi CSE: Malli 15th rakunda ayipothadi incase malli ravali ante meeru avaro okallu vellali
+2/9/24, 11:50 - Manikanta CSE: Ask lokesh he may tell one project
+2/9/24, 11:50 - Manikanta CSE: For that one we should prepare abstract
+2/9/24, 11:52 - JayaLakshmi CSE: Ante inka confirm cheyaledhu kadha sir malli amaina antaru emo ani
+2/9/24, 11:52 - JayaLakshmi CSE: nuv akkada vunnav
+2/9/24, 11:52 - JayaLakshmi CSE: nrt ayithe repu clg ki vasthav aa
+2/9/24, 11:53 - Manikanta CSE: I am not in nrt
+2/9/24, 11:54 - JayaLakshmi CSE: ok
+2/9/24, 11:54 - JayaLakshmi CSE: Now we should only complete the abstract right??
+2/9/24, 11:55 - Manikanta CSE: 😅 then who will complete the abstract without our team
+2/9/24, 12:16 - JayaLakshmi CSE: Every one should do
+2/9/24, 12:16 - JayaLakshmi CSE: If u have any format then send it
+2/9/24, 12:17 - JayaLakshmi CSE: We will complete it by today
+2/9/24, 12:20 - Manikanta CSE: What I am saying is also the same
+2/9/24, 12:21 - JayaLakshmi CSE: Ok
+2/9/24, 12:21 - Manikanta CSE: I didn't have any format
+2/9/24, 13:44 - Lokesh Sinha: .....
+2/9/24, 13:44 - Lokesh Sinha: Ela cheysi choopinchali
+2/9/24, 13:44 - Lokesh Sinha: Adhey abstract
+2/9/24, 13:44 - JayaLakshmi CSE: Aa koncham chala
+2/9/24, 13:44 - JayaLakshmi CSE: ..
+2/9/24, 13:45 - Lokesh Sinha: Inka extend cheyali anna cheydam parle
+2/9/24, 13:45 - JayaLakshmi CSE: Ok
+2/9/24, 13:46 - JayaLakshmi CSE: Lokesh nuv sir ki em cheppav project
+2/9/24, 13:47 - Lokesh Sinha: Leydhu aa taravata malli sir tho ematladale
+2/9/24, 13:47 - JayaLakshmi CSE: Appude em cheppav
+2/9/24, 13:47 - Lokesh Sinha: Just eevala okati anukoni velli explained cheydam
+2/9/24, 13:47 - Lokesh Sinha: Appudu what's app sentiment analysis using LLM
+2/9/24, 13:47 - JayaLakshmi CSE: Ok
+2/9/24, 13:47 - JayaLakshmi CSE: Adhe chedham aa mari
+2/9/24, 13:48 - JayaLakshmi CSE: Only abstract chala
+2/9/24, 13:48 - JayaLakshmi CSE: Ivvala nyt ki chesthe
+2/9/24, 13:48 - JayaLakshmi CSE: Nenu
+2/9/24, 13:48 - JayaLakshmi CSE: Velthunna
+2/9/24, 13:48 - JayaLakshmi CSE: So repu submit chestha
+2/9/24, 13:48 - JayaLakshmi CSE: Sir ok ante inka meeru ravakarledhu emo kadha
+2/9/24, 13:58 - Lokesh Sinha: Haa avunu leader
+2/9/24, 13:58 - Lokesh Sinha: Feeling lucky to have a leader like u 😁
+2/9/24, 14:06 - JayaLakshmi CSE: Challe
+2/9/24, 14:06 - JayaLakshmi CSE: Ippudu ayithe whatsApp sentiment analysis okati chedham aa
+2/9/24, 14:33 - Lokesh Sinha: Haa adhey cheyali
+2/9/24, 14:44 - JayaLakshmi CSE: Ok
+2/9/24, 20:26 - JayaLakshmi CSE: Sry guys nen nrt vellatled but document ready chedham ee sunday ki
+2/9/24, 20:26 - JayaLakshmi CSE: I mean abstract
+2/9/24, 21:56 - Lokesh Sinha: Ok....
+2/9/24, 21:56 - Lokesh Sinha: @919177081360 nee meedey baram veysam ra chusuko
+2/10/24, 06:42 - Joni CSE: ante nenu vellala
+2/10/24, 06:43 - Manikanta CSE: Yes
+2/12/24, 18:13 - Joni CSE: 1. Registration form
+2. Abstract
+    Take the signature by your guide and submit these two papers to Rakesh sir...as early as possible
+2/12/24, 18:13 - Joni CSE: Feb 15 is the last date
+2/12/24, 18:13 - Joni CSE: One or two members from your group to submit the papers
+2/12/24, 18:14 - JayaLakshmi CSE: Joni u only have to go
+2/12/24, 18:16 - Joni CSE: ok
+2/12/24, 18:16 - Joni CSE: but abstract submit cheyyali ga
+2/12/24, 18:16 - JayaLakshmi CSE: Haa
+2/12/24, 18:18 - JayaLakshmi CSE: Chedham
+2/12/24, 18:18 - Joni CSE: twaraga chesthe velli submit chestha
+2/12/24, 18:19 - JayaLakshmi CSE: 1st okadaniki chala
+2/12/24, 18:20 - Joni CSE: ante
+2/12/24, 18:23 - JayaLakshmi CSE: Project
+2/12/24, 18:24 - JayaLakshmi CSE: .
+2/12/24, 18:29 - Joni CSE: lokesh A project ani cheppadu
+2/12/24, 18:29 - Joni CSE: sentiment analysis
+2/12/24, 18:29 - Joni CSE: idhe kadha
+2/13/24, 10:09 - Joni CSE: hi
+2/13/24, 12:22 - Joni CSE: Hlo
+2/13/24, 12:22 - Joni CSE: Reply ivvarenti
+2/13/24, 12:38 - JayaLakshmi CSE: Hi
+2/13/24, 12:39 - Joni CSE: 15th last kadha
+2/13/24, 12:40 - Joni CSE: ivvala 13
+2/13/24, 12:40 - JayaLakshmi CSE: Haa
+2/13/24, 12:40 - JayaLakshmi CSE: Abstract format choosi
+2/13/24, 12:41 - JayaLakshmi CSE: Ivvala okokallu okadi chedham
+2/13/24, 12:44 - Lokesh Sinha: haa cheydam cheydam
+2/13/24, 12:44 - JayaLakshmi CSE: Ivvale last inka
+2/13/24, 12:45 - JayaLakshmi CSE: <Media omitted>
+2/13/24, 21:22 - Joni CSE: abstract aipoindha cheyyadam
+2/14/24, 01:13 - JayaLakshmi CSE: <Media omitted>
+2/14/24, 01:14 - JayaLakshmi CSE: Once check this if any corrections pls modify them before showing to sir
+2/14/24, 01:15 - JayaLakshmi CSE: https://youtu.be/Q0QwvZKG_6Q?si=JwNoz3PjeMbgjbC8
+2/14/24, 01:15 - JayaLakshmi CSE: Okasari sir deggariki velle appudu choosukoni vellu
+2/14/24, 01:16 - JayaLakshmi CSE: sir questions adigithe cheppali kadha
+2/14/24, 06:58 - Joni CSE: Haa
+2/14/24, 06:58 - Joni CSE: Ok
+2/14/24, 10:50 - Lokesh Sinha: <Media omitted>
+2/14/24, 10:52 - Joni CSE: andharu Mee signatures pettandi ila
+2/14/24, 10:52 - Joni CSE: Twaraga
+2/14/24, 10:54 - Vijay CSE: <Media omitted>
+2/14/24, 11:16 - Manikanta CSE: <Media omitted>
+2/14/24, 11:16 - Joni CSE: Andhari roll numbers kuda pettandi
+2/14/24, 11:16 - Joni CSE: With full name
+2/14/24, 11:19 - Lokesh Sinha: Lokesh Sinha Nakka
+20031A0532
+2/14/24, 11:27 - Vijay CSE: Mypala Durga Vijay Kumar
+20031A0531
+2/14/24, 11:41 - Manikanta CSE: Jaggurothu Manikantanaidu
+20031A0522
+2/14/24, 11:42 - Joni CSE: Sign kuda photo
+2/14/24, 11:42 - Joni CSE: <Media omitted>
+2/14/24, 11:43 - Joni CSE: Domain, title dheggara em fill cheyyali
+2/14/24, 11:49 - JayaLakshmi CSE: <Media omitted>
+2/14/24, 11:49 - Lokesh Sinha: Data Science <This message was edited>
+2/20/24, 15:52 - Manikanta CSE: Team Head of the  teams 4, 5, 6, 8,11 contact me immediately.
+2/20/24, 15:58 - JayaLakshmi CSE: Ha
+2/20/24, 15:58 - JayaLakshmi CSE: Call chesaru
+2/20/24, 15:58 - JayaLakshmi CSE: Modifications cheptharu anta
+2/20/24, 16:31 - Manikanta CSE: Ok
+2/20/24, 16:56 - JayaLakshmi CSE: Ee saturday randi annaru
+2/20/24, 17:00 - Manikanta CSE: I am coming Sunday
+2/20/24, 17:00 - Manikanta CSE: Morning
+2/20/24, 17:03 - JayaLakshmi CSE: Saturday vachi matladathava sir tho
+2/20/24, 17:04 - JayaLakshmi CSE: I can't come
+2/20/24, 17:04 - JayaLakshmi CSE: Fever ga vundi naku
+2/20/24, 17:12 - Manikanta CSE: Sry
+2/20/24, 17:12 - Manikanta CSE: I already booked tickets
+2/26/24, 17:34 - JayaLakshmi CSE: Hi
+2/26/24, 17:35 - JayaLakshmi CSE: <Media omitted>
+2/26/24, 17:35 - JayaLakshmi CSE: Sir changes cheyamannaru anta
+2/26/24, 17:35 - JayaLakshmi CSE: Andaru ee abstract chadivi okasari title em pettalo choodandi
+2/26/24, 17:35 - JayaLakshmi CSE: Marchamannaru anta sir
+2/26/24, 17:35 - JayaLakshmi CSE: Inka changes kuda cheppandi
+2/26/24, 17:36 - JayaLakshmi CSE: Review vundi march 2nd inka dani medha kuda work start cheyali
+2/26/24, 17:36 - JayaLakshmi CSE: I need everyone response and everyone should do the work
+2/26/24, 17:37 - JayaLakshmi CSE: Time ledhu manaki
+2/26/24, 17:37 - JayaLakshmi CSE: Fast ga cheyali
+2/26/24, 17:41 - JayaLakshmi CSE: Changes em chepparo okasari joni cheppu
+2/26/24, 17:46 - Joni CSE: Title lo ae algorithm use chesi manam project chesthunnamo raayali anta
+2/26/24, 17:47 - Joni CSE: Project gurinchi cheppali annaru abstract lo ante manam em tools use chesthaamo like python, heroku.... ilantivi mention cheyyakudadhu anta
+2/26/24, 17:47 - JayaLakshmi CSE: Ok
+2/26/24, 17:48 - Joni CSE: Manam project endhuku chesthunnam and it's uses laantivi maatrame raayali annaru
+2/26/24, 19:01 - Joni CSE: Project abstract lo manam chese project significance and it's role ento cheppali
+2/26/24, 19:02 - Joni CSE: But project gurinchi details vunda koodadhu
+2/26/24, 19:02 - JayaLakshmi CSE: Ok
+2/26/24, 19:02 - JayaLakshmi CSE: Ee changes cheyandi andaru
+2/26/24, 19:02 - JayaLakshmi CSE: Chesi pettandi
+2/26/24, 19:03 - Joni CSE: nenu ee night ki okati chesi pedathaanule
+2/26/24, 19:03 - JayaLakshmi CSE: Ok
+2/27/24, 16:21 - Joni CSE: <Media omitted>
+2/27/24, 16:21 - Joni CSE: Okasaari andharu chadhavandi
+2/27/24, 16:21 - Joni CSE: emaina maarchaali ante maarudham
+2/27/24, 16:22 - JayaLakshmi CSE: Ha
+2/27/24, 20:54 - Joni CSE: Abstract review appudu submit cheyyamannaru
+2/27/24, 20:55 - Joni CSE: Sign cheyyakapoina mana work start chedham review ki
+2/27/24, 21:07 - JayaLakshmi CSE: Neeke teliyali
+2/27/24, 21:07 - JayaLakshmi CSE: Nuve ga vellav
+2/27/24, 21:43 - Joni CSE: Nenu adhe chepthunna
+2/27/24, 21:44 - Joni CSE: Mana project ki sign cheyyaledhu ani project aapakunda start chedham antunna
+2/27/24, 21:47 - JayaLakshmi CSE: Haa
+2/27/24, 21:47 - JayaLakshmi CSE: Chedham
+2/27/24, 22:00 - JayaLakshmi CSE: Literature survey choodandi andaru
+2/27/24, 22:00 - JayaLakshmi CSE: Okokallu oko 2 research papers vi ala
+2/27/24, 22:00 - Joni CSE: ante
+2/27/24, 22:00 - Joni CSE: ardham kaala
+2/27/24, 22:01 - JayaLakshmi CSE: Seniors dantlo choodu okasari
+2/27/24, 22:01 - JayaLakshmi CSE: Naku matram em telusu
+2/27/24, 23:11 - Lokesh Sinha: Due to the work I am not able to work on it...I will start the work from tomorrow evening.... 👍
+2/28/24, 18:02 - Joni CSE: ee abstract ok kadha
+2/28/24, 18:02 - Joni CSE: andhariki
+2/28/24, 18:04 - Joni CSE: emanna changes chesthe chesi pettandi
+2/28/24, 18:11 - Lokesh Sinha: You deleted this message
+2/28/24, 18:11 - Lokesh Sinha: Repu Saturday review ki em em kavali chepandi first
+2/28/24, 18:12 - Lokesh Sinha: Eeroju repu lo cheyseydam
+2/28/24, 18:12 - Joni CSE: For the 1st review on March 2nd , you should have this 2 things : 
+1. Document 
+2. PPT 
+
+1. Document 
+Should contain : 
+
+A) Abstract 
+B) Technical details of project.
+
+C) Literature survey
+ 
+- which means the  research papers which you have verified and gone through for your project. Literature survey should contain about 4 to 5 pages of various explanations of 
+research papers.
+
+And at the end of Literature survey,  you should attach the "BASE PAPER". Which means - where you have taken the problem statement from, 
+ex: IEEE explore or so. You have to attach that respective Base Paper to the Literature survey. 
+
+  
+2. PPT should contain : 
+A) Introduction
+B) Problem Statement 
+C) Abstract 
+D) Existing systems
+E) Existing System drawbacks 
+F) Proposed system - means what you are going to do. 
+G) Proposed system advantages. 
+H) Modules
+2/28/24, 18:12 - Joni CSE: The starting pages of the document should contain : 
+
+1. Project title page
+2. Certificate 
+3. Declaration 
+4. Acknowledgement 
+
+And later 
+5. Abstract 
+6. Introduction
+7. Technical details
+8. Literature survey 
+9. Base paper.
+2/28/24, 18:12 - Joni CSE: Take the reference of this document and ppt.
+2/28/24, 18:12 - Joni CSE: 2 Hard copies of document from each group  should bring for submission.
+2/28/24, 18:12 - Joni CSE: Just these basic details are enough don't go for entire final document.
+2/28/24, 18:12 - Joni CSE: <Media omitted>
+2/28/24, 18:12 - Joni CSE: <Media omitted>
+2/28/24, 18:13 - Lokesh Sinha: Sare leader ekkada
+2/28/24, 18:13 - JayaLakshmi CSE: Ikkade vunna
+2/28/24, 18:14 - Lokesh Sinha: Work emaina divide cheystara
+2/28/24, 18:14 - JayaLakshmi CSE: Ppt lo kuda document ve na
+2/28/24, 18:14 - Joni CSE: idhi nenu chesi pedathaara
+2/28/24, 18:14 - JayaLakshmi CSE: 1st 4 chesesa
+2/28/24, 18:15 - Joni CSE: konchem match avuthai
+2/28/24, 18:15 - Joni CSE: kaani anni same raayakandi
+2/28/24, 18:15 - JayaLakshmi CSE: Abstract vundi kadha joni pettindhi adhi changes choosi cheppandi
+2/28/24, 18:15 - JayaLakshmi CSE: Ha
+2/28/24, 18:15 - Joni CSE: migilinavi nenu try chestha
+2/28/24, 18:15 - JayaLakshmi CSE: Project name marchali anta
+2/28/24, 18:15 - JayaLakshmi CSE: Adhi choodandi
+2/28/24, 18:15 - Joni CSE: okasaari document pettu
+2/28/24, 18:15 - JayaLakshmi CSE: Literature survey base paper kuda na
+2/28/24, 18:16 - JayaLakshmi CSE: Ha lap lo vundi pedatha
+2/28/24, 18:16 - Joni CSE: nuvvu entha varaku chesavo antha varaku
+2/28/24, 18:16 - JayaLakshmi CSE: Adhi cheyaled
+2/28/24, 18:17 - Joni CSE: 1st 4 chesanu annav kadha
+2/28/24, 18:17 - JayaLakshmi CSE: Haa
+2/28/24, 18:17 - JayaLakshmi CSE: Acknowledgement daka
+2/28/24, 18:18 - Lokesh Sinha: Sare ippudu emaina work divide cheystey
+2/28/24, 18:19 - Lokesh Sinha: Baguntadhi.... 🙃
+2/28/24, 18:19 - Lokesh Sinha: Okasari chudu
+2/28/24, 18:22 - Joni CSE: base paper ante emaina raayala
+2/28/24, 18:22 - Joni CSE: leka last lo kaali page add cheyyala
+2/28/24, 18:22 - JayaLakshmi CSE: Rayali
+2/28/24, 18:23 - JayaLakshmi CSE: Joni adhi chesthadu kadha migitha manam 4 ppt chedham
+2/28/24, 18:23 - Joni CSE: em raayali
+2/28/24, 18:23 - JayaLakshmi CSE: Grp lo edho pettaru appudu see
+2/28/24, 18:23 - JayaLakshmi CSE: Once
+2/28/24, 18:24 - Joni CSE: @917670940241 Nuvvu twaraga document pedithe nenu migatha work start chestha
+2/28/24, 18:24 - JayaLakshmi CSE: E, F, G, h, ppt lo vijay lokesh
+2/28/24, 18:25 - JayaLakshmi CSE: Ha anthuloki vethuku research papers
+2/28/24, 18:25 - Lokesh Sinha: Ok leader🫡
+2/28/24, 18:28 - JayaLakshmi CSE: Manikanta
+2/28/24, 18:29 - JayaLakshmi CSE: C, d
+2/28/24, 18:35 - Joni CSE: enti c,d ante
+2/28/24, 18:36 - Vijay CSE: Indulo read more lo
+2/28/24, 18:36 - Vijay CSE: Untadhi
+2/28/24, 18:36 - Joni CSE: Marchipoya 😅😅😅
+2/28/24, 18:55 - JayaLakshmi CSE: <Media omitted>
+2/28/24, 19:14 - Joni CSE: borders pedadhaama
+2/28/24, 19:14 - Joni CSE: document lo
+2/28/24, 19:15 - JayaLakshmi CSE: emo
+2/28/24, 19:15 - JayaLakshmi CSE: akkarledhu anukunta
+2/28/24, 19:23 - Joni CSE: abstract lo changes em levu ga
+2/28/24, 19:24 - Joni CSE: document lo add chesthunna
+2/28/24, 19:24 - JayaLakshmi CSE: vunte marudham le malli
+2/28/24, 19:24 - JayaLakshmi CSE: project name marchali ga
+2/28/24, 19:46 - Lokesh Sinha: Literature survey evaru cheystunaru??
+2/28/24, 19:46 - Joni CSE: nenu chusthunna
+2/28/24, 19:46 - Joni CSE: google lo
+2/28/24, 19:46 - Lokesh Sinha: Share cheyi okasari
+2/28/24, 19:46 - Joni CSE: haa
+2/28/24, 19:47 - Joni CSE: chestha
+2/28/24, 19:47 - Lokesh Sinha: Next
+2/28/24, 19:47 - Joni CSE: kaani kastha time paduthundhi
+2/28/24, 19:47 - Lokesh Sinha: PPT start cheysaraa??
+2/28/24, 19:47 - Lokesh Sinha: First theme ento fix avvali gaa
+2/28/24, 19:47 - JayaLakshmi CSE: nen ippudu cheyalenu office lo vunna
+2/28/24, 19:47 - JayaLakshmi CSE: project name enti?
+2/28/24, 19:48 - Lokesh Sinha: Sentiment analysis using BERT
+2/28/24, 19:48 - Lokesh Sinha: Or Text analysis using BERT
+2/28/24, 19:48 - JayaLakshmi CSE: BERT ante
+2/28/24, 19:48 - Lokesh Sinha: Manam use cheyseysa Algorithm
+2/28/24, 19:48 - JayaLakshmi CSE: full form
+2/28/24, 19:48 - JayaLakshmi CSE: adhe full form ledha
+2/28/24, 19:49 - Lokesh Sinha: Bidirectional Encoder Representations from Transformers
+2/28/24, 19:49 - JayaLakshmi CSE: ok
+2/28/24, 19:54 - Joni CSE: Sentiment or text analysis kaakunda chat analysis using BERT ani pedadham
+2/28/24, 19:55 - Joni CSE: Ok
+2/28/24, 19:55 - Joni CSE: Na
+2/28/24, 19:56 - Lokesh Sinha: Voting peytandi
+2/28/24, 19:56 - JayaLakshmi CSE: sentiment analysis ante to tell the emotion of the message ani vasthundi
+2/28/24, 19:57 - JayaLakshmi CSE: whether it is a positive,negative or neutral ani
+2/28/24, 19:57 - Joni CSE: Text ante only text maatrame vasthundhi multimedia raadhu ga
+2/28/24, 19:57 - Joni CSE: Chat ante total Anni vasthai
+2/28/24, 19:58 - JayaLakshmi CSE: ha
+2/28/24, 19:58 - JayaLakshmi CSE: kani andaru opinion cheppandi
+2/28/24, 20:00 - JayaLakshmi CSE: POLL:
+Title
+OPTION: Text Analysis using BERT (0 votes)
+OPTION: chat Analysis using BERT (0 votes)
+OPTION: sentiment Analysis using BERT (0 votes)
+
+2/28/24, 20:01 - Joni CSE: Voting kaadhu eadhi correct ga vundho chusi pedadham
+2/28/24, 20:01 - JayaLakshmi CSE: ok
+2/29/24, 10:41 - Joni CSE: Make sure your Document and PPT get verified before the review date. And on Saturday you should bring the Document with spiral binding upto Literature survey and base paper.
+2/29/24, 10:41 - Joni CSE: Okavela Saturday lopu verify cheyinchukopothey, In case mistakes emanna untey even 1 page yyna sarey, Danni marchi malli spiral cheyinchalsi untundi.
+2/29/24, 11:23 - Joni CSE: ae work aina ivvale complete cheyyali
+2/29/24, 11:24 - Joni CSE: repu manam chesina work motham analyze chesukundham
+2/29/24, 11:24 - Joni CSE: ante ela explain cheyyali ani
+2/29/24, 21:21 - Lokesh Sinha: Reyyyy
+2/29/24, 21:22 - Lokesh Sinha: null
+2/29/24, 21:22 - JayaLakshmi CSE: I can't join now
+2/29/24, 21:23 - Lokesh Sinha: Project panulu entha varaku vachini
+2/29/24, 21:23 - JayaLakshmi CSE: Repu afternoon ki anni submit avvali
+2/29/24, 21:23 - Lokesh Sinha: Mundhu ppt start cheysara
+2/29/24, 21:24 - Lokesh Sinha: Adhi inka peytale??
+2/29/24, 21:24 - JayaLakshmi CSE: Led
+2/29/24, 21:24 - Lokesh Sinha: Mari nene start cheyseyna??
+2/29/24, 21:24 - JayaLakshmi CSE: Meedi ready cheyandi
+2/29/24, 21:24 - Lokesh Sinha: Sare
+2/29/24, 21:24 - JayaLakshmi CSE: Ha mi istam
+2/29/24, 21:25 - Lokesh Sinha: Next migatavi ready ga vunnaya
+2/29/24, 21:25 - Lokesh Sinha: Base paper
+2/29/24, 21:25 - JayaLakshmi CSE: Needi ayinda
+2/29/24, 21:25 - JayaLakshmi CSE: Joni ea cheppali
+2/29/24, 21:25 - Lokesh Sinha: 🙄 starting 20 minutes vuntundhi nadhi.. m
+2/29/24, 21:26 - JayaLakshmi CSE: Nuv 1st AA
+2/29/24, 21:26 - Joni CSE: nenu pedathaanu okasaari chusi cheppandhi
+2/29/24, 21:26 - Joni CSE: may be kudhirithe ippudu lekapothe morning
+2/29/24, 21:45 - Joni CSE: <Media omitted>
+2/29/24, 21:49 - Joni CSE: hlo
+2/29/24, 21:59 - Joni CSE: This message was deleted
+2/29/24, 21:59 - Joni CSE: This message was deleted
+2/29/24, 22:17 - Lokesh Sinha: @919381498272 rey... Endulo existing systems gurinchi vundhi chudu
+2/29/24, 23:20 - Vijay CSE: <Media omitted>
+2/29/24, 23:22 - Lokesh Sinha: Existing system  drawbacks  and Proposed system
+2/29/24, 23:23 - Vijay CSE: <Media omitted>
+2/29/24, 23:24 - Lokesh Sinha: Ee pdf okasari refer cheyandi eh matter ki inaa
+3/1/24, 00:03 - Manikanta CSE: Indhilo existing systems levu ani cheppindhi kadha ra
+3/1/24, 00:03 - Lokesh Sinha: Ithy existing system nltk packages use cheystayi
+3/1/24, 00:04 - Lokesh Sinha: Kani manam transformers technology use cheysi develop cheystunam ani rayi
+3/1/24, 00:05 - Manikanta CSE: Aa existing system ki name vundali kadha appudu
+3/1/24, 00:05 - Lokesh Sinha: What's app chat analyzer (NLTK) anthey
+3/1/24, 00:06 - Lokesh Sinha: Enti antey research jarugutundhi deeni meeda systems em full ga develop kale but
+3/1/24, 00:06 - Lokesh Sinha: Updated version ga manam transformers use cheyochu ani chupistam ee project adhey rayi
+3/1/24, 00:08 - Manikanta CSE: Idhi already develop chesara
+3/1/24, 00:47 - Vijay CSE: <Media omitted>
+3/1/24, 13:02 - Manikanta CSE: <Media omitted>
+3/1/24, 13:19 - JayaLakshmi CSE: <Media omitted>
+3/1/24, 14:20 - Joni CSE: <Media omitted>
+3/1/24, 14:20 - Joni CSE: <Media omitted>
+3/1/24, 14:21 - Joni CSE: okasaari correct ga vundho ledho chudandi
+3/1/24, 14:21 - Joni CSE: technical details avasaram ledhu ani vadhilesa
+3/1/24, 14:22 - JayaLakshmi CSE: ok
+3/1/24, 14:22 - JayaLakshmi CSE: koncham avaru ayina ppt lu merge chesthara
+3/1/24, 14:22 - Joni CSE: PPT. ...
+
+ MODULES Important....modules lo .. algorithm, output, plus pictures
+ CONCLUSION   kuda add cheyandi
+3/1/24, 14:23 - Joni CSE: PPT ivi vundela prepare chesaara
+3/1/24, 15:39 - Joni CSE: Xerox eppudu teeisthunnaru
+3/1/24, 15:39 - Joni CSE: Mana CLG dheggara Xerox em levu teeinchadaaniki
+3/1/24, 17:46 - Joni CSE: ...
+3/1/24, 17:46 - JayaLakshmi CSE: choodham
+3/1/24, 17:46 - JayaLakshmi CSE: changes em ledha
+3/1/24, 17:47 - Joni CSE: Oka saari chudu nuvvu
+3/1/24, 17:47 - JayaLakshmi CSE: project names change cheyandi
+3/1/24, 17:48 - Joni CSE: emani pettali
+3/1/24, 17:49 - Joni CSE: Okasaari document motham chusi changes emaina vunte pettu
+3/1/24, 17:50 - JayaLakshmi CSE: haa
+3/1/24, 20:21 - Joni CSE: Hlo
+3/1/24, 20:59 - Lokesh Sinha: Cheppara
+3/1/24, 21:27 - Vijay CSE: Cheppara
+3/1/24, 21:39 - Joni CSE: Xerox ra
+3/1/24, 21:39 - Joni CSE: Teeinchaali ga
+3/1/24, 21:39 - Joni CSE: Repe submit cheyyali
+3/1/24, 21:39 - Lokesh Sinha: Sare ra teeyinchu mrng eh velli
+3/1/24, 21:39 - Lokesh Sinha: Konchem fast ga ravali
+3/1/24, 21:40 - Joni CSE: Naaku kudharadhu
+3/1/24, 21:40 - Lokesh Sinha: Manikanta petu vadu inaa teestadu
+3/1/24, 21:40 - Lokesh Sinha: Entha avindho cheppu group lo nenu veysta
+3/1/24, 21:40 - Joni CSE: ...
+3/1/24, 21:51 - Manikanta CSE: Nenu nrt ki vellesariki 7:30 avuthundhi
+3/1/24, 21:52 - Manikanta CSE: So emi thiyyali cheppandi
+3/1/24, 21:52 - Manikanta CSE: Forward cheyyandi
+3/2/24, 07:37 - Manikanta CSE: Rey Xerox lu meeru theesthara
+3/2/24, 07:41 - JayaLakshmi CSE: Changes cheyali kadha
+3/2/24, 07:41 - JayaLakshmi CSE: Nen tevadaniki try chestha le
+3/2/24, 07:41 - JayaLakshmi CSE: And one thing mana grp lo
+3/2/24, 07:41 - JayaLakshmi CSE: Lokesh vijay raru review ki
+3/2/24, 07:41 - JayaLakshmi CSE: So manam 3 ea
+3/2/24, 07:42 - JayaLakshmi CSE: Title conversational analysis ani pedadham aa
+3/2/24, 07:43 - JayaLakshmi CSE: Avaru ayina start chesthara
+3/2/24, 07:47 - Manikanta CSE: Document ppt inka change cheyyala?
+3/2/24, 07:49 - JayaLakshmi CSE: Name ok na
+3/2/24, 07:49 - JayaLakshmi CSE: Conversational analysis
+3/2/24, 07:49 - Manikanta CSE: Lokesh ni adagali
+3/2/24, 07:49 - JayaLakshmi CSE: Aa names marudham
+3/2/24, 07:49 - Joni CSE: <Media omitted>
+3/2/24, 07:49 - JayaLakshmi CSE: Mari whatsApp ante baledbu ani
+3/2/24, 07:49 - JayaLakshmi CSE: Idhi kuda kavali aa
+3/2/24, 07:50 - Joni CSE: idhi and abstract separate ga teeinchaali
+3/2/24, 07:50 - JayaLakshmi CSE: Haa
+3/2/24, 07:50 - Joni CSE: ...
+3/2/24, 07:51 - JayaLakshmi CSE: Ha adhi pedadham le ippudu ki inia
+3/2/24, 07:51 - JayaLakshmi CSE: Change cheyali ante
+3/2/24, 07:51 - JayaLakshmi CSE: Chedham
+3/2/24, 07:51 - JayaLakshmi CSE: Tanu lechada
+3/2/24, 08:20 - JayaLakshmi CSE: <Media omitted>
+3/2/24, 10:03 - JayaLakshmi CSE: Full names pettu
+3/2/24, 10:03 - JayaLakshmi CSE: Lokesh
+3/2/24, 10:03 - JayaLakshmi CSE: Vijay
+3/2/24, 10:05 - JayaLakshmi CSE: Initial
+3/2/24, 10:09 - Vijay CSE: Nakka Lokesh Sinha
+3/2/24, 10:09 - Vijay CSE: Mypala Durga Vijay Kumar
+3/2/24, 10:10 - JayaLakshmi CSE: Domain ante
+3/2/24, 10:10 - JayaLakshmi CSE: <Media omitted>
+3/2/24, 10:10 - JayaLakshmi CSE: Data science aa
+3/2/24, 10:10 - JayaLakshmi CSE: Data analytics aa
+3/2/24, 10:10 - Joni CSE: Data science
+3/2/24, 10:11 - Vijay CSE: 9,10 pages same unnai
+3/2/24, 10:11 - JayaLakshmi CSE: Avuna
+3/2/24, 10:12 - Vijay CSE: Ha
+3/2/24, 10:12 - JayaLakshmi CSE: Idi ea na
+3/2/24, 10:13 - Vijay CSE: Ma iddari gurinchi adigithe hod permission  undi ani cheppandi
+3/2/24, 10:13 - JayaLakshmi CSE: Ok
+3/2/24, 10:14 - JayaLakshmi CSE: Data science ea kada
+3/2/24, 10:14 - Vijay CSE: Anukunta
+3/2/24, 10:14 - Vijay CSE: Joni monna adhey petttadu
+3/2/24, 10:14 - JayaLakshmi CSE: Data analytics kadha
+3/2/24, 10:14 - JayaLakshmi CSE: Lokesh leda
+3/2/24, 10:14 - Vijay CSE: .
+3/2/24, 10:14 - Vijay CSE: .
+3/2/24, 10:14 - JayaLakshmi CSE: Ok
+3/2/24, 10:15 - Vijay CSE: Ok
+3/2/24, 11:08 - JayaLakshmi CSE: Sir marks ayithe veyaru anta
+3/2/24, 11:08 - JayaLakshmi CSE: Permission vunna kani
+3/2/24, 11:10 - JayaLakshmi CSE: Absent ane vestharu anta
+3/14/24, 14:41 - Joni CSE: Hi
+3/14/24, 14:41 - Joni CSE: Project implementation start chesaara evaraina
+3/14/24, 14:44 - Vijay CSE: No
+3/22/24, 12:47 - Joni CSE: Hlo
+3/22/24, 12:47 - Joni CSE: Message chusaara
+3/22/24, 13:02 - Joni CSE: 28th anta
+3/22/24, 13:27 - JayaLakshmi CSE: Haa
+3/22/24, 15:14 - Joni CSE: Mari evarina project implementation start chesaara
+3/22/24, 15:23 - JayaLakshmi CSE: No
+3/22/24, 15:23 - JayaLakshmi CSE: This Saturday or Sunday we will plan and divide
+3/24/24, 17:20 - Lokesh Sinha: ippudu chepandi em em vundali documentation lo
+3/24/24, 17:20 - Lokesh Sinha: work start cheydam inka
+3/24/24, 17:22 - Lokesh Sinha: @917670940241 leader
+3/24/24, 20:37 - Joni CSE: Nenu project half varaku chesan ra
+3/24/24, 20:37 - Joni CSE: Implementation
+3/24/24, 20:49 - Lokesh Sinha: Inka contents em vunayo Ave pettu
+3/25/24, 11:42 - Lokesh Sinha: rey documentation start cheyali raa
+3/25/24, 11:43 - Lokesh Sinha: kanisam contents kuda teliyavu ave inaa peytandi ra
+3/25/24, 11:43 - JayaLakshmi CSE: Sir ivi ani em cheppatled
+3/25/24, 11:43 - JayaLakshmi CSE: Seniors vi choosi cheyamannaru anya
+3/25/24, 11:43 - JayaLakshmi CSE: Anta
+3/25/24, 11:43 - Lokesh Sinha: mari senior reports inaa peytandi
+3/25/24, 11:43 - Lokesh Sinha: start cheydam inkaa
+3/25/24, 11:44 - JayaLakshmi CSE: <Media omitted>
+3/25/24, 11:44 - JayaLakshmi CSE: <Media omitted>
+3/25/24, 11:55 - Lokesh Sinha: ee rendu cheyala ithy ippudu
+3/25/24, 11:59 - JayaLakshmi CSE: Haa
+3/25/24, 11:59 - JayaLakshmi CSE: Code undha
+3/25/24, 11:59 - Joni CSE: Vundhi
+3/25/24, 12:00 - JayaLakshmi CSE: Run avuthundha
+3/25/24, 12:00 - JayaLakshmi CSE: Chesi choosara
+3/25/24, 12:00 - Joni CSE: Haa
+3/25/24, 12:01 - JayaLakshmi CSE: Lokesh nuv  mana telugu chat ni English loki convert chedham annav choosava
+3/25/24, 12:01 - Joni CSE: <Media omitted>
+3/25/24, 12:01 - Joni CSE: <Media omitted>
+3/25/24, 12:01 - Joni CSE: <Media omitted>
+3/25/24, 12:01 - JayaLakshmi CSE: Nice
+3/25/24, 12:01 - Joni CSE: inka vundhi konchem
+3/25/24, 12:01 - Joni CSE: Complete avvala
+3/25/24, 12:01 - JayaLakshmi CSE: Code cheyalsindi aa
+3/25/24, 12:01 - Lokesh Sinha: anthey raa joni.....
+3/25/24, 12:02 - Joni CSE: Haa
+3/25/24, 12:02 - JayaLakshmi CSE: Kk
+3/25/24, 12:02 - Lokesh Sinha: eh youtube channel raaa
+3/25/24, 12:02 - JayaLakshmi CSE: .. Idi cheppu
+3/25/24, 12:02 - Joni CSE: Nuvvu pettindhe
+3/25/24, 12:02 - Lokesh Sinha: haaa avunu
+3/25/24, 12:02 - JayaLakshmi CSE: Nuv cheppamannav ani ala cheppa mam ki
+3/25/24, 12:02 - JayaLakshmi CSE: Chestham ani
+3/25/24, 12:02 - JayaLakshmi CSE: Last tym
+3/25/24, 12:03 - Lokesh Sinha: mam enduku vacharu madyalo
+3/25/24, 12:03 - JayaLakshmi CSE: Tenglish data english ki convert chesi data extract chestham ani cheppa
+3/25/24, 12:03 - Lokesh Sinha: sir kada manaki
+3/25/24, 12:03 - JayaLakshmi CSE: Review ki sir
+3/25/24, 12:03 - JayaLakshmi CSE: Mam
+3/25/24, 12:03 - JayaLakshmi CSE: Idharu unnaru kadha
+3/25/24, 12:03 - Lokesh Sinha: avunaa
+3/25/24, 12:03 - JayaLakshmi CSE: Appudu cheppam
+3/25/24, 12:03 - JayaLakshmi CSE: Ha
+3/25/24, 12:03 - Joni CSE: avanni vaallaki gurthuvundavule
+3/25/24, 12:04 - Lokesh Sinha: sir code peydata chudu
+3/25/24, 12:04 - Lokesh Sinha: anthey ra joni....ee confidence vuntey chaalu
+3/25/24, 12:04 - JayaLakshmi CSE: Nice ra
+3/25/24, 12:04 - JayaLakshmi CSE: Bane unnaru okokallu
+3/25/24, 12:04 - JayaLakshmi CSE: Jyothi mam joni ne run chesi choopimandi
+3/25/24, 12:05 - JayaLakshmi CSE: Code ayyaka mam chat ni
+3/25/24, 12:05 - JayaLakshmi CSE: Analyze cheyamannaru
+3/25/24, 12:05 - JayaLakshmi CSE: Joni ni
+3/25/24, 12:05 - JayaLakshmi CSE: Uml diagrams geeyali kadha
+3/25/24, 12:05 - JayaLakshmi CSE: Inka
+3/25/24, 12:33 - Lokesh Sinha: nice ra anta...😅
+3/25/24, 12:33 - Lokesh Sinha: nv bane vunav
+3/25/24, 15:42 - Lokesh Sinha: @919177081360  entha varaku cheysav project <This message was edited>
+3/25/24, 15:43 - Lokesh Sinha: documentation
+3/25/24, 15:55 - JayaLakshmi CSE: introduction literature survey (1 &2) -Jaya
+System Analysis (3)- Manikanta
+Modules(4)-Joni
+System Requirements (5)- Vijay
+System Design (6)- Lokesh
+3/25/24, 16:01 - Lokesh Sinha: ok...👍
+3/25/24, 16:02 - JayaLakshmi CSE: Wednesday lopu work ayipovali
+3/25/24, 16:02 - JayaLakshmi CSE: Malli corrections chedham
+3/25/24, 16:02 - JayaLakshmi CSE: Ppt kuda cheyali
+3/25/24, 16:53 - Joni CSE: aipoindhi ra
+3/25/24, 16:54 - Joni CSE: May be inka 5 min work vundhi anukunta
+3/25/24, 17:06 - JayaLakshmi CSE: Motham ayyaya
+3/25/24, 17:23 - Joni CSE: Ledhu
+3/25/24, 17:23 - Joni CSE: Document cheyyali ga
+3/25/24, 17:23 - Joni CSE: Implementation complete chesa
+3/25/24, 17:24 - Joni CSE: Except heroku
+3/25/24, 17:27 - JayaLakshmi CSE: Ok
+3/26/24, 10:27 - Lokesh Sinha: Deniki credit card aavasaram.... Evaru dagara inaa vuntey chudandi...
+3/26/24, 10:27 - Joni CSE: endhuku ra
+3/26/24, 10:27 - Joni CSE: Credit card
+3/26/24, 10:30 - JayaLakshmi CSE: led
+3/26/24, 10:30 - Lokesh Sinha: Heroku lo account create cheyali antey aavsaram
+3/26/24, 10:31 - Joni CSE: Heroku vaadakapoina output vasthundhi ra
+3/26/24, 10:31 - Joni CSE: Heroku vaadakundaane chupidhaama
+3/26/24, 10:39 - Lokesh Sinha: Avunu avunu
+3/26/24, 10:39 - Lokesh Sinha: Eedhi deployment platform anthey
+3/26/24, 10:40 - Joni CSE: Implementation aithe motham complete aipoindhi ra
+3/26/24, 10:40 - Lokesh Sinha: ok raaa
+3/26/24, 10:40 - Lokesh Sinha: repati lopu document kuda complete cheyseyandi
+3/26/24, 10:41 - Lokesh Sinha: inkaa PPT vundala leyda?
+3/26/24, 10:41 - Joni CSE: Okasaari Google meet petti chupistha
+3/26/24, 10:41 - Joni CSE: ...
+3/26/24, 10:41 - Lokesh Sinha: ok evng peytukondam
+3/26/24, 10:41 - Joni CSE: Emanna changes vunte chudham
+3/26/24, 10:41 - Lokesh Sinha: sare
+3/26/24, 10:41 - Joni CSE: ae time ki
+3/26/24, 10:43 - Lokesh Sinha: chepta cheptaa
+3/26/24, 11:45 - Joni CSE: introduction literature survey (1 &2) -Jaya
+System Analysis (3)- Manikanta
+Modules(4)-Joni
+System Requirements (5)- Vijay
+System Design (6)- Lokesh
+3/26/24, 11:45 - Joni CSE: ee side headings ekkadivi
+3/26/24, 11:48 - Joni CSE: LIST OF CONTENTS
+S.NO CHAPTER NAME PG NO
+LIST OF FIGURES IV
+LIST OF TABLES VII
+LIST OF ABBREVATIONS VIII
+1. INTRODUCTION 1
+1.1 INTRODUCTION 2
+1.2 SIGNIFICANCE OF THE PROJECT 4
+1.3 SUMMARY 4
+2. LITERATURE SURVEY 5
+2.1 LITERATURE SURVEY 6
+2.2 MOTIVATION 10
+2.3 PROBLEM STATEMENT 11
+2.4 SUMMARY 11
+3. SYSTEM ANALYSIS 12
+3.1 EXISTING SYSTEM 13
+ 3.1.1 DRAWBACKS OF EXISTING SYSTEM 13
+3.2 PROPOSED SYSTEM 14
+ 3.2.1MediaPipe 14
+ 3.2.2 LSTM 15
+ 3.2.3 NLP 16
+ 3.2.4 ADVANTAGES OF PROPOSED SYSTEM 16
+ 3.2.5 OVERCOMING THE DRAWBACKS OF EXISTING
+ SYSTEM
+16
+3.3 SUMMARY 17
+
+SILENT CONVERSATION USING LSTM
+II
+4. SOFTWARE REQUIREMENT SPECIFICATIONS 18
+4.1 FUNCTIONAL REQUIREMENTS 19
+4.2 NON-FUNCTIONAL REQUIREMENTS 20
+4.3 HARDWARE REQUIREMENTS 21
+4.4 SOFTWARE REQUIREMENTS 21
+4.5 SUMMARY 21
+5. SYSTEM DESIGN 22
+5.1 SYSTEM ARCHITECTURE 23
+5.2 MODULES 25
+ 5.2.1 SIGN TO TEXT 25
+ 5.2.2 TEXT TO SIGN 26
+5.3 UML DIAGRAMS USED IN DESIGN 27
+ 5.3.1 USE CASE DIAGRAM 28
+ 5.3.2 CLASS DIAGRAM 30
+ 5.3.3 SEQUENCE DIAGRAM 31
+ 5.3.4 COMMUNICATION DIAGRAM 32
+ 5.3.5 ACTIVITY DIAGRAM 33
+ 5.3.6 DATAFLOW DIAGRAM 34
+5.4 SUMMARY 35
+6. SYSTEM IMPLEMENTATION 36
+
+SILENT CONVERSATION USING LSTM
+I
+6.1 LIBRARIES 37
+6.2 SAMPLE CODE 41
+6.3 SUMMARY 45
+7. SYSTEM TESTING 46
+7.1 INTRODUCTION 47
+7.2 PURPOSE OF TESTING 47
+7.3 TYPES OF TESTING 48
+7.4 TESTING METHODS 50
+7.5 TEST CASES 52
+7.6 SUMMARY 67
+8. SYSTEM RESULTS 68
+8.1 USER INTERFACE 69
+8.2 SIGN TO TEXT 70
+8.3 TEXT TO SIGN 76
+8.4 SUMMARY 79
+9. CONCLUSION AND FUTUREWORK 80
+9.1 CONCLUSION 81
+9.2 FUTURE WORK 82
+REFERENCES 83
+CR  pettina last year batch vaalladhi idhi
+3/26/24, 17:27 - Joni CSE: Hi
+3/26/24, 17:45 - JayaLakshmi CSE: Hi
+3/26/24, 17:49 - Joni CSE: Google meet petti project chupistha ani annanu ga emaina mistakes vunte cheppadaaniki
+3/26/24, 17:49 - Joni CSE: Eppudu pettukundham
+3/26/24, 17:50 - JayaLakshmi CSE: Tmrw mrng ok na
+3/26/24, 17:50 - JayaLakshmi CSE: Meeku 10ki
+3/26/24, 17:50 - Joni CSE: Naaku ok
+3/26/24, 17:50 - Lokesh Sinha: Kudaradhu jaya
+3/26/24, 17:50 - Lokesh Sinha: Evng eh peytandi
+3/26/24, 17:50 - JayaLakshmi CSE: Oh
+3/26/24, 17:50 - JayaLakshmi CSE: Sare meeru ippudu choodandi
+3/26/24, 17:51 - JayaLakshmi CSE: Nen repu choostha
+3/26/24, 17:51 - JayaLakshmi CSE: Naku 11 daka office
+3/26/24, 17:51 - JayaLakshmi CSE: So 12 ki meeting
+3/26/24, 17:51 - JayaLakshmi CSE: ante meeku ibbandi kadha
+3/26/24, 17:51 - Lokesh Sinha: Haaa
+3/26/24, 17:52 - JayaLakshmi CSE: Ha meeru ivvala pettukondi
+3/26/24, 17:52 - JayaLakshmi CSE: Kudirina tym choosi
+3/26/24, 19:21 - Joni CSE: hlo
+3/26/24, 19:21 - Joni CSE: ippudu ok na
+3/26/24, 19:21 - Joni CSE: meet ki
+3/26/24, 19:21 - Lokesh Sinha: Naku ok
+3/26/24, 19:22 - Joni CSE: haa
+3/26/24, 19:22 - Joni CSE: sare
+3/26/24, 19:24 - Joni CSE: https://meet.google.com/jyq-swns-sso
+3/26/24, 19:25 - Joni CSE: join avvu ra
+3/26/24, 19:25 - Lokesh Sinha: Nv nena??
+3/26/24, 19:25 - Lokesh Sinha: Migata vallu
+3/26/24, 19:25 - Joni CSE: jaya repu cheppa mandhi
+3/26/24, 19:25 - Joni CSE: mari migathhavaallu join avuthaaro ledho thelidhu
+3/26/24, 19:25 - Joni CSE: join aithe avvamanu
+3/26/24, 19:26 - Lokesh Sinha: Manikanta ki cheppu okasaru
+3/26/24, 19:26 - Lokesh Sinha: Call cheyi
+3/26/24, 19:27 - Joni CSE: just 5 minutes lo aipothundhi ra
+3/26/24, 19:27 - Joni CSE: peddha time em pattadhu
+3/26/24, 19:27 - Lokesh Sinha: Ok raaa
+3/26/24, 19:28 - Lokesh Sinha: Nenu execute cheysa le already
+3/26/24, 19:28 - Joni CSE: avuna
+3/26/24, 19:28 - Joni CSE: mari cheppaledhu
+3/26/24, 19:28 - Joni CSE: eppudu chesav
+3/26/24, 19:28 - Joni CSE: nuvvu kuda chesthe inka meet endhuku ra
+3/26/24, 19:29 - Joni CSE: cheyyaledhemo changes chepthaaru ani meet pedadhaamanna
+3/26/24, 19:29 - Lokesh Sinha: Parle parle
+3/26/24, 19:29 - Lokesh Sinha: Start cheyi
+3/26/24, 19:29 - Joni CSE: chesa ra
+3/26/24, 19:29 - Joni CSE: nuvvu join avvu
+3/26/24, 19:29 - Joni CSE: manikanta edho class lo vunna annadu
+3/26/24, 19:29 - Lokesh Sinha: Ok
+3/26/24, 19:30 - Lokesh Sinha: Join ayya raa
+3/26/24, 19:30 - Joni CSE: vinipinchatledha
+3/26/24, 19:30 - Joni CSE: helo anna ga
+3/26/24, 19:31 - Lokesh Sinha: Vinipistundhi
+3/26/24, 19:31 - Lokesh Sinha: Mic allow leydhu Naa daniki
+3/26/24, 19:31 - Joni CSE: ok
+3/26/24, 19:32 - Joni CSE: 1 minute ra
+3/26/24, 19:33 - Lokesh Sinha: Sare
+3/26/24, 19:33 - Joni CSE: https://meet.google.com/mrq-nxif-fjj
+3/26/24, 19:33 - Joni CSE: join avvi
+3/26/24, 19:34 - Lokesh Sinha: Joni rep peytukondam ra
+3/26/24, 19:34 - Lokesh Sinha: Verey work vachindhi
+3/26/24, 19:34 - JayaLakshmi CSE: Busy people
+3/26/24, 19:34 - Joni CSE: ok ra
+3/26/24, 19:34 - Lokesh Sinha: Haa
+3/26/24, 19:34 - Joni CSE: repu ae time ki
+3/26/24, 19:34 - Lokesh Sinha: Meeru avithey baguntadhi leader
+3/26/24, 19:34 - Lokesh Sinha: Work entha varaku avvindho kanukondi.... Time leydhu
+3/26/24, 19:36 - JayaLakshmi CSE: Kaludham annav work antav
+3/26/24, 19:36 - JayaLakshmi CSE: Ha
+3/26/24, 19:37 - Lokesh Sinha: Emo ala velipotundhi lifee ..
+3/26/24, 19:37 - Joni CSE: @917670940241 previous batch vaalladhi chusava document
+3/26/24, 19:37 - JayaLakshmi CSE: Haa
+3/26/24, 19:37 - JayaLakshmi CSE: Lokesh joni vere titles unnai antunnadu
+3/26/24, 19:38 - JayaLakshmi CSE: Nuv em refer chesav
+3/26/24, 19:38 - Joni CSE: evaru nena leka @918985042381
+3/26/24, 19:39 - JayaLakshmi CSE: Lokesh
+3/26/24, 19:39 - JayaLakshmi CSE: Ni
+3/26/24, 19:39 - Lokesh Sinha: .... Eedhey chesa
+3/26/24, 19:39 - Joni CSE: mari anni side headings levu ga
+3/26/24, 19:39 - Lokesh Sinha: Evey vunayi ga andulo kuda
+3/26/24, 19:40 - JayaLakshmi CSE: Subheading tesey
+3/26/24, 19:40 - Joni CSE: sarle repu meet lo chudham
+3/26/24, 19:40 - JayaLakshmi CSE: Avvali mari fast ga
+3/27/24, 17:48 - Lokesh Sinha: <Media omitted>
+3/27/24, 18:04 - Lokesh Sinha: Andaru work twaraga update cheyandi raa...
+3/27/24, 18:04 - Lokesh Sinha: Merge cheyali ga malli
+3/27/24, 18:04 - JayaLakshmi CSE: Ha
+3/27/24, 18:04 - JayaLakshmi CSE: Ppt kuda cheyali
+3/27/24, 18:04 - Lokesh Sinha: Avuna
+3/27/24, 18:09 - JayaLakshmi CSE: Ha
+3/27/24, 18:17 - Lokesh Sinha: mari adhi kuda divide cheyali kadha
+3/27/24, 18:17 - Lokesh Sinha: adhi cheyaleydhu
+3/27/24, 18:26 - JayaLakshmi CSE: Ha
+3/27/24, 18:27 - JayaLakshmi CSE: Review ante ppt kuda cheyali kadha
+3/27/24, 20:05 - Joni CSE: Modules ante asalu nen em cheyyali ra
+3/27/24, 20:12 - Lokesh Sinha: Group lo ani pdf lu peytaru kada ra
+3/27/24, 20:12 - Lokesh Sinha: Refer cheyi ra ardam avutundhi
+3/27/24, 20:14 - Joni CSE: System design lo modules oka part ra
+3/27/24, 20:15 - Joni CSE: Kaani nuvvu system design chesav kadha
+3/27/24, 20:15 - Joni CSE: adhe naaku ardham kaala
+3/27/24, 20:15 - Lokesh Sinha: System design antey diagrams
+3/27/24, 20:15 - Lokesh Sinha: Nenu Ave cheysa
+3/27/24, 20:16 - Lokesh Sinha: Nv mana project lo em em use cheysamo vati gurinchi rayali
+3/27/24, 21:43 - Lokesh Sinha: Mana project name What'sApp chat Analysis eh....
+3/27/24, 21:43 - You pinned a message
+3/28/24, 16:34 - JayaLakshmi CSE: Chesara documents andaru
+3/28/24, 16:34 - JayaLakshmi CSE: Pettandi
+3/28/24, 16:35 - JayaLakshmi CSE: WhatsApp chat Analysis Using BERT
+3/28/24, 16:37 - Joni CSE: BERT ekkada use chesam
+3/28/24, 16:37 - JayaLakshmi CSE: Adhe ga mam ku ala cheppam
+3/28/24, 16:37 - JayaLakshmi CSE: 🤦‍♀️🤦‍♀️
+3/28/24, 16:38 - Joni CSE: mam ki anni gurthuvundavule
+3/28/24, 16:38 - JayaLakshmi CSE: Project name marchi ichamu kuda book
+3/28/24, 16:38 - JayaLakshmi CSE: Document last tym dhi
+3/28/24, 16:39 - JayaLakshmi CSE: Ha
+3/28/24, 16:40 - Joni CSE: mari em chedham
+3/28/24, 16:40 - Joni CSE: ippudu
+3/28/24, 16:41 - JayaLakshmi CSE: @918985042381
+3/28/24, 16:41 - Lokesh Sinha: Ha ha fine fine
+3/28/24, 16:41 - Lokesh Sinha: Problem em leydhu
+3/28/24, 16:41 - JayaLakshmi CSE: Okasari aa algorithm akkada vadam cheppu
+3/28/24, 16:42 - Lokesh Sinha: Use cheyale
+3/28/24, 16:42 - JayaLakshmi CSE: And mam ki nen nuv cheppamannav ani tenglish data convert chestham english ga ani cheppa
+3/28/24, 16:42 - Lokesh Sinha: Third review ki choopistam ani chepandi
+3/28/24, 16:42 - JayaLakshmi CSE: Mari ala
+3/28/24, 16:42 - JayaLakshmi CSE: Nuv cmg aa
+3/28/24, 16:42 - JayaLakshmi CSE: Ledhaa
+3/28/24, 16:42 - Lokesh Sinha: Future work
+3/28/24, 16:42 - Lokesh Sinha: Coming coming
+3/28/24, 16:42 - JayaLakshmi CSE: Ok
+3/28/24, 16:42 - JayaLakshmi CSE: Vijay
+3/28/24, 17:07 - Vijay CSE: Coming
+3/28/24, 17:08 - JayaLakshmi CSE: Ha
+3/28/24, 17:08 - JayaLakshmi CSE: Document pettandi fast ga chesi
+3/28/24, 17:44 - Joni CSE: <Media omitted>
+3/28/24, 17:44 - Joni CSE: idhe na nenu cheyyalsina document inka emaina vunte cheppandi add chestha
+3/28/24, 23:01 - Lokesh Sinha: Ee work antha vachindha @917670940241
+3/28/24, 23:02 - JayaLakshmi CSE: Ledhu
+3/29/24, 08:50 - Manikanta CSE: <Media omitted>
+3/29/24, 09:27 - Lokesh Sinha: @919381498272 rey okasari ee pdf lo chuda ra
+3/29/24, 09:27 - Lokesh Sinha: existing system lovi explain cheystu rasaru
+3/29/24, 09:27 - Lokesh Sinha: manam kuda alaa rayali
+3/29/24, 09:28 - Lokesh Sinha: Joni nv kuda changes cheyali....
+3/29/24, 09:28 - Joni CSE: Haa
+3/29/24, 09:29 - Lokesh Sinha: Data Preprocessing
+data analysis
+streamlit
+Transformer
+Bert 
+veeti gurinchi kuda explain cheystu rayali raa matter <This message was edited>
+3/29/24, 09:30 - Lokesh Sinha: @919177081360 nv kuda modules lo mention cheyali
+3/29/24, 09:30 - Joni CSE: Modules lo em raayalo clarity ga oka list pettu ra
+3/29/24, 09:35 - Lokesh Sinha: 1.Exporting and Uploading chat to website
+2.Data Preprocessing 
+3.Data Analysis
+vatilo em packages use cheystunaru ela display cheystundho motham rayali
+3/29/24, 09:43 - Vijay CSE: is modules and system requirements are same
+3/29/24, 09:43 - Vijay CSE: ?
+3/29/24, 09:43 - Manikanta CSE: Rey veetini existing systems anaru ra techniques antaru
+3/29/24, 09:44 - Vijay CSE: @917670940241
+3/29/24, 09:46 - Lokesh Sinha: next exporting chat to bert transformer 
+transformer ikkada ela work avutundhi
+Messages ela convert cheystundhi output em vastundhi   @919177081360 eevi kuda rayali
+3/29/24, 09:46 - Lokesh Sinha: @919381498272 reference lo nunchey cheptuna raa
+3/29/24, 09:46 - Lokesh Sinha: okasari andulo chuda raa
+3/29/24, 09:47 - Joni CSE: Orey manam bert transformer asalu vaadaledhu kadha ra
+3/29/24, 09:47 - Manikanta CSE: Manam theesukuna project existing systems levu
+3/29/24, 09:47 - Manikanta CSE: Ra
+3/29/24, 09:47 - Lokesh Sinha: nenu  bert transformer kuda add cheystuna .....diagrams lo so code next review ki chupidam ee review ki documentation lo add cheydam
+3/29/24, 09:47 - Manikanta CSE: Vallaki vunnayi andhuke elaborate chesi rasaru
+3/29/24, 09:48 - Lokesh Sinha: elaboration kaadhu ra nenu adigeydhi mana system lo em use cheystunam ani mention cheyi chaalu
+3/29/24, 09:48 - Lokesh Sinha: streamlit gurinchi pakka mention cheyali enduku antey adhey frontend build cheystundhi kabati
+3/29/24, 09:49 - Manikanta CSE: Idhi proposed system kadha ra
+3/29/24, 09:49 - Lokesh Sinha: https://youtu.be/Q0QwvZKG_6Q?si=pxXiJeGufIPrz9ae
+3/29/24, 09:49 - Manikanta CSE: Existing system lo endhuku rayali
+3/29/24, 09:50 - Lokesh Sinha: propsed system nv kaadha cheyseydhi
+3/29/24, 09:51 - Lokesh Sinha: okasari andaru review ki vacheymundhu refer cheyandi bagaa....eedhi data analysis varaku matrame
+3/29/24, 09:51 - Lokesh Sinha: third review ki inkaa bga prepare avvudam eesari ki ...konchem time peyti telusukondi ra
+3/29/24, 09:51 - Lokesh Sinha: ee oka rojuki
+3/29/24, 09:51 - Lokesh Sinha: neu office lo nunchi chestuna work antha
+3/29/24, 09:52 - Manikanta CSE: Nene
+3/29/24, 09:52 - Lokesh Sinha: anduloney rayi appudu
+3/29/24, 09:54 - Lokesh Sinha: nenu diagrams update cheystuna .....
+1. Chat upload cheystam -> Data Preprocessing jarugutundhi -> Data Analysis manaki display avutundhi
+2. Chat upload cheystam-> Google API use cheysi -> TEnglish data ni English loki convert cheystam -> Bert Transformer algorithm apply cheystam -> Sentiment analysis output vastundhi
+3/29/24, 09:55 - Lokesh Sinha: ok mana application ki ee rendu options vunayi ippudud eedhey diagram lo upload cheysta.....matters kuda rayandi deniki related ganey
+3/29/24, 09:56 - You pinned a message
+3/29/24, 10:54 - Joni CSE: ee review ki implementation mottham aipovaali antara
+3/29/24, 10:54 - Joni CSE: malli next review ki enti
+3/29/24, 11:04 - Lokesh Sinha: Inka future work ani cheppadame
+3/29/24, 11:04 - Lokesh Sinha: Execute avutundhi le kaani manam daniki web implementation work eevale
+3/29/24, 11:45 - Vijay CSE: @919177081360 code send chey ra
+3/29/24, 11:45 - Joni CSE: em code ra
+3/29/24, 11:45 - Joni CSE: project dha
+3/29/24, 11:46 - Vijay CSE: manam chesina project code
+3/29/24, 11:46 - Vijay CSE: code for these output
+3/29/24, 11:46 - Vijay CSE: zip send chey
+3/29/24, 11:46 - Joni CSE: This message was deleted
+3/29/24, 11:57 - Lokesh Sinha: <Media omitted>
+3/29/24, 11:57 - Lokesh Sinha: okasari eedhi chudandi Mana System architecture andariki ardam avutundhi ga?
+3/29/24, 12:03 - JayaLakshmi CSE: Document fast ga ayithe
+3/29/24, 12:03 - JayaLakshmi CSE: Print teepiyanchu
+3/29/24, 12:13 - Joni CSE: <Media omitted>
+3/29/24, 12:13 - Joni CSE: lokesh document correct ga vundho ledho chudu naadhi
+3/29/24, 12:14 - Joni CSE: @917670940241 nuvvu kuda chudu
+3/29/24, 12:14 - JayaLakshmi CSE: Ha
+3/29/24, 12:14 - Joni CSE: ok
+3/29/24, 12:14 - Joni CSE: na
+3/29/24, 12:14 - Lokesh Sinha: meeru msgs ki reply eevandi
+3/29/24, 12:16 - JayaLakshmi CSE: Isthunna
+3/29/24, 12:50 - JayaLakshmi CSE: Intha document aa koncham taggiyachu emo kadha
+3/29/24, 14:15 - Lokesh Sinha: rey joni.....
+3/29/24, 14:15 - Lokesh Sinha: nijanga ani jarugutunya raaa
+3/29/24, 14:15 - Lokesh Sinha: ani peyteysav
+3/29/24, 14:16 - JayaLakshmi CSE: Haa
+3/29/24, 14:16 - Lokesh Sinha: @917670940241 ippudu vraku vachinantha varaku word ready cheysey
+3/29/24, 14:16 - JayaLakshmi CSE: Chala pettav <This message was edited>
+3/29/24, 14:16 - Lokesh Sinha: chaala edit cheyali
+3/29/24, 14:16 - Lokesh Sinha: mundhu word document ready cheyandi....taravata edit cheysukondam
+3/29/24, 14:16 - JayaLakshmi CSE: Final documents pedithe  nen edit chesi ppt chestha
+3/29/24, 14:16 - Lokesh Sinha: final document nv cheyatleyda?
+3/29/24, 14:17 - JayaLakshmi CSE: Ha adhe
+3/29/24, 14:17 - JayaLakshmi CSE: Meevi parts pedithe
+3/29/24, 14:17 - JayaLakshmi CSE: Chestha
+3/29/24, 14:17 - JayaLakshmi CSE: Okasari andaru pettandi malli documents fast ga
+3/29/24, 14:18 - Lokesh Sinha: <Media omitted>
+3/29/24, 14:19 - JayaLakshmi CSE: Manikanta
+3/29/24, 14:19 - JayaLakshmi CSE: Vijay pettandi
+3/29/24, 14:19 - JayaLakshmi CSE: Meeru kuda
+3/29/24, 14:19 - JayaLakshmi CSE: @919177081360 koncham marchi pettadaniki ayithe marchu
+3/29/24, 14:19 - JayaLakshmi CSE: @919381498272 @919347854434  fast ga pettandi
+3/29/24, 14:54 - Lokesh Sinha: <Media omitted>
+3/29/24, 15:10 - Lokesh Sinha: @919177081360 work marchva
+3/29/24, 15:10 - Joni CSE: em changes cheyyali ra
+3/29/24, 15:11 - Lokesh Sinha: baga ekkuva aipoyindhi matter....
+3/29/24, 15:11 - Joni CSE: nenu neeku pettina document ae kadha
+3/29/24, 15:12 - Lokesh Sinha: twaraga document share cheyandi
+3/29/24, 15:12 - Joni CSE: total enni pages vasthundhi
+3/29/24, 15:12 - Lokesh Sinha: nen changes cheystale
+3/29/24, 15:12 - Lokesh Sinha: adhi teliadhu
+3/29/24, 15:12 - Joni CSE: haa
+3/29/24, 15:12 - Joni CSE: mari ippudu nen em cheyyavasarledhu ga
+3/29/24, 15:12 - Lokesh Sinha: nv konchem mattertagincha raa....
+3/29/24, 15:13 - JayaLakshmi CSE: Anni vasthe documents marustha
+3/29/24, 15:13 - JayaLakshmi CSE: Inka
+3/29/24, 15:13 - JayaLakshmi CSE: Raled
+3/29/24, 15:13 - Lokesh Sinha: manikanta ki call cheysi work peytamanu cheppu
+3/29/24, 15:13 - JayaLakshmi CSE: @919381498272 phone lift cheyatled
+3/29/24, 15:13 - JayaLakshmi CSE: Meeru avaru ayina try cheyandi okasari
+3/29/24, 15:13 - Lokesh Sinha: nenu ppt start cheystuna
+3/29/24, 15:14 - Joni CSE: naadhi motham 21 pages vundhi ra
+3/29/24, 15:14 - Joni CSE: enni pages cheyyamantav
+3/29/24, 15:14 - Lokesh Sinha: adhey ekkuva ra swami...
+3/29/24, 15:14 - JayaLakshmi CSE: 5 paged chalu
+3/29/24, 15:14 - Lokesh Sinha: mundu ani documents oka chota gather cheyandi
+3/29/24, 15:14 - Vijay CSE: <Media omitted>
+3/29/24, 15:14 - JayaLakshmi CSE: Ha
+3/29/24, 15:14 - JayaLakshmi CSE: Ok
+3/29/24, 15:14 - Vijay CSE: once go through
+3/29/24, 15:14 - Lokesh Sinha: em add cheyalo em change cheyalo malli chepta
+3/29/24, 15:15 - Joni CSE: 5 pages saripothaya
+3/29/24, 15:15 - JayaLakshmi CSE: Ave ekkuva
+3/29/24, 15:15 - JayaLakshmi CSE: Modules okate kadha
+3/29/24, 15:16 - Joni CSE: adhenti total enni pages chedham anukuntunnav
+3/29/24, 15:16 - JayaLakshmi CSE: 1st review final document vundha
+3/29/24, 15:16 - JayaLakshmi CSE: sare wait chesaka cheptha
+3/29/24, 15:33 - JayaLakshmi CSE: @918985042381 @919177081360 MODULES only 2 ea kadha data analysis and sentiment analysis
+3/29/24, 15:33 - Lokesh Sinha: HAAA
+3/29/24, 15:34 - JayaLakshmi CSE: inni pettaru enti document lo
+3/29/24, 15:34 - Lokesh Sinha: MUNDHU DOCUMENT ANI MERGE CHEYSI PAMPU
+3/29/24, 15:34 - Lokesh Sinha: TARVATA MARCHEYDAM
+3/29/24, 15:34 - JayaLakshmi CSE: ok
+3/29/24, 15:34 - JayaLakshmi CSE: mari manikanta dhi
+3/29/24, 15:38 - Lokesh Sinha: Aadugu
+3/29/24, 15:38 - Lokesh Sinha: Call lift cheyatledha inkaa
+3/29/24, 15:38 - JayaLakshmi CSE: Phone lift cheyatled
+3/29/24, 15:38 - Lokesh Sinha: Sare add veysey vuna vati varaku
+3/29/24, 15:38 - JayaLakshmi CSE: Ha
+3/29/24, 18:01 - Vijay CSE: <Media omitted>
+3/29/24, 18:01 - Vijay CSE: ee sample file upload chesi word cloud output pettu ra @919177081360
+3/29/24, 18:01 - Vijay CSE: urgent
+3/29/24, 18:12 - Vijay CSE: rey babu
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:13 - Joni CSE: <Media omitted>
+3/29/24, 18:15 - Vijay CSE: ee output ra adigindhi
+3/29/24, 18:16 - Vijay CSE: fast ga reply ivvu
+3/29/24, 18:17 - Joni CSE: pettara adhi kuda
+3/29/24, 18:17 - Joni CSE: kaani adhi peddha ga vundhi so screenshot okesaari full pic raavatledhu
+3/29/24, 18:17 - Vijay CSE: drag chesi pettu
+3/29/24, 18:18 - Vijay CSE: malli send chey
+3/29/24, 18:18 - Joni CSE: ok
+3/29/24, 18:18 - Joni CSE: na
+3/29/24, 18:18 - Vijay CSE: no
+3/29/24, 18:19 - Vijay CSE: ila petra
+3/29/24, 18:19 - Vijay CSE: ekkada pettavo
+3/29/24, 18:19 - Vijay CSE: pettaledhu nuvvu chudu
+3/29/24, 18:19 - Vijay CSE: oksari
+3/29/24, 18:19 - Joni CSE: vasthandhi aagu
+3/29/24, 18:19 - Joni CSE: wait chey
+3/29/24, 18:19 - Vijay CSE: ok
+3/29/24, 18:20 - Joni CSE: <Media omitted>
+3/29/24, 18:20 - Vijay CSE: okay ra
+3/29/24, 18:20 - Joni CSE: ok
+3/29/24, 18:20 - Joni CSE: na
+3/29/24, 18:22 - Vijay CSE: <Media omitted>
+3/29/24, 18:22 - Vijay CSE: verify it
+3/29/24, 18:23 - Vijay CSE: group chat ki chesa outputs
+3/29/24, 18:23 - Vijay CSE: personal chat  ki cheyale
+3/29/24, 18:23 - Vijay CSE: parledha
+3/29/24, 18:23 - Vijay CSE: ?
+3/29/24, 22:25 - Joni CSE: Document and PPT complete aithe pettandi group lo
+3/29/24, 22:26 - Vijay CSE: Check chesava @917670940241
+3/29/24, 22:26 - JayaLakshmi CSE: Nen bus ekkaka chestha
+3/30/24, 06:06 - Lokesh Sinha: <Media omitted>
+3/30/24, 06:54 - Joni CSE: All the teams should bring their own laptops with pre-loaded PPT, Document, Project with Interface. Note: Internet connection should be connected to the laptop in before your turn.
+3/30/24, 06:54 - Joni CSE: Laptop evaru thesthunnaru
+3/30/24, 06:54 - JayaLakshmi CSE: <Media omitted>
+3/30/24, 06:54 - JayaLakshmi CSE: Ni dantlo ne undi ga code
+3/30/24, 06:54 - JayaLakshmi CSE: Nuv techey
+3/30/24, 06:55 - Joni CSE: Lokesh kuda chesanu annadu ga
+3/30/24, 06:55 - JayaLakshmi CSE: Index list of figures rayali
+3/30/24, 06:55 - JayaLakshmi CSE: Tanu kuda testhadu emo le
+3/30/24, 06:55 - JayaLakshmi CSE: Inka
+3/30/24, 06:56 - JayaLakshmi CSE: Avi rayagalava
+3/30/24, 06:56 - JayaLakshmi CSE: See if u can
+3/30/24, 06:56 - JayaLakshmi CSE: Nen ippude vacha intiki lethe nen 7.30 ki ala chestha inka
+3/30/24, 06:59 - Joni CSE: ippudu kudharadhu naaku
+3/30/24, 06:59 - JayaLakshmi CSE: Ok
+3/30/24, 07:15 - Joni CSE: eesaari kuda nuvve Xerox teepusthunnava
+3/30/24, 08:09 - Lokesh Sinha: Nenu cheyaleydhu rey
+3/30/24, 08:09 - Lokesh Sinha: Laptop teesukoni randi
+3/30/24, 08:10 - JayaLakshmi CSE: Joni nuv techey
+3/30/24, 08:10 - Joni CSE: Implementation chesanu annav kadha ra
+3/30/24, 08:10 - Lokesh Sinha: Xerox ki evaru veltunaru
+3/30/24, 08:10 - Lokesh Sinha: Cheyaleydhu ra babu
+3/30/24, 08:10 - Lokesh Sinha: Nv teesukoni raaa
+3/30/24, 08:10 - Joni CSE: Ok
+3/30/24, 08:11 - Lokesh Sinha: @917670940241 
+.....
+3/30/24, 08:11 - JayaLakshmi CSE: Shops open untai aa
+3/30/24, 08:11 - JayaLakshmi CSE: Unte veltha le
+3/30/24, 08:23 - Manikanta CSE: Xerox thiyyamante
+3/30/24, 08:23 - Manikanta CSE: Theestha
+3/30/24, 08:23 - Manikanta CSE: Ippudu
+3/30/24, 08:23 - Manikanta CSE: Tharvatha ayithe kudaradhu
+3/30/24, 08:23 - Lokesh Sinha: wait raaa
+3/30/24, 08:23 - Lokesh Sinha: pampistanu
+3/30/24, 08:24 - Manikanta CSE: Jayalakshmi ni adugu
+3/30/24, 08:24 - Manikanta CSE: Thanu thesthadha
+3/30/24, 08:24 - Manikanta CSE: Thiyyadha ani
+3/30/24, 08:24 - Lokesh Sinha: peydutundhi
+3/30/24, 08:26 - Manikanta CSE: Rey binding ikkada ledhu ra
+3/30/24, 08:26 - Manikanta CSE: Only Xerox
+3/30/24, 08:26 - Manikanta CSE: So tharvatha problem ayyidhi emo
+3/30/24, 08:26 - Lokesh Sinha: ekkada vunav
+3/30/24, 08:26 - Manikanta CSE: Nenu bus stand lo
+3/30/24, 08:26 - Manikanta CSE: Vunna bus kosam waiting
+3/30/24, 08:26 - Lokesh Sinha: akkada cerey shop lu em leva raa
+3/30/24, 08:27 - Manikanta CSE: Group choosa andhuke adiganu bus stand daggara Xerox shop
+3/30/24, 08:27 - Lokesh Sinha: chudu vereydhi
+3/30/24, 08:27 - Manikanta CSE: Srinidhi hostel daggara
+3/30/24, 08:27 - Lokesh Sinha: kastam aipodhi malli xerxo
+3/30/24, 08:27 - Lokesh Sinha: aa pakkaney rendu moodu vuntayi chuda ra
+3/30/24, 08:28 - Manikanta CSE: Avvi open lo levu
+3/30/24, 08:28 - Manikanta CSE: Choosanu already
+3/30/24, 08:28 - Lokesh Sinha: Oka 10 mins choodu
+3/30/24, 08:28 - Manikanta CSE: Ok
+3/30/24, 08:41 - Manikanta CSE: Thiyyaledhu
+3/30/24, 08:41 - Manikanta CSE: Ra
+3/30/24, 09:56 - Joni CSE: Document teeinchaara
+3/30/24, 10:00 - JayaLakshmi CSE: Yes
+3/30/24, 10:02 - Joni CSE: Vacchava class ki
+3/30/24, 10:03 - JayaLakshmi CSE: On the way
+3/30/24, 10:27 - Vijay CSE: 🤣🤣🤣
+3/30/24, 10:28 - Vijay CSE: <Media omitted>
+3/30/24, 10:28 - JayaLakshmi CSE: Akkada unnaru
+3/31/24, 20:02 - Joni CSE: andharu TCS drive ki apply chesaara
+3/31/24, 20:20 - Joni CSE: @917670940241 chusi kuda reply ivvaventra konthamandhi 😒😒😒😒
+3/31/24, 20:20 - JayaLakshmi CSE: Last date eppudu
+3/31/24, 20:21 - JayaLakshmi CSE: Led
+3/31/24, 20:21 - JayaLakshmi CSE: Cheppu last date
+4/1/24, 13:00 - Joni CSE: <Media omitted>
+4/1/24, 13:00 - Joni CSE: <Media omitted>
+4/1/24, 13:00 - Joni CSE: <Media omitted>
+4/1/24, 13:01 - Joni CSE: ila ok na
+4/1/24, 13:01 - JayaLakshmi CSE: Ha
+4/1/24, 13:21 - Lokesh Sinha: Cheyseysav joni...
+4/1/24, 13:23 - JayaLakshmi CSE: Okasari full code keep joni
+4/1/24, 13:35 - Joni CSE: Ok
+4/1/24, 13:35 - Joni CSE: Tharvatha pedatha
+4/1/24, 13:39 - JayaLakshmi CSE: Ha amaina add cheyali ante chepthadu lokesh
+4/2/24, 15:44 - JayaLakshmi CSE: Code pettu joni
+4/2/24, 16:18 - JayaLakshmi CSE: Nuv malli fest ki velthe sir chepparu
+4/2/24, 16:18 - JayaLakshmi CSE: So fast ga kani
+4/2/24, 19:07 - Joni CSE: Em chepparu
+4/2/24, 19:26 - JayaLakshmi CSE: Changes
+4/2/24, 19:27 - Joni CSE: Changes cheyyamani cheppara
+4/2/24, 19:28 - JayaLakshmi CSE: Le
+4/2/24, 19:28 - JayaLakshmi CSE: Code
+4/2/24, 20:10 - Joni CSE: Pedathaanu
+4/2/24, 20:14 - JayaLakshmi CSE: Haa
+4/3/24, 11:15 - Joni CSE: app.py:
+import streamlit as st
+import preprocessor
+import helper
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+from textblob import TextBlob
+
+st.sidebar.title("WhatsApp Chat Analyzer")
+
+uploaded_file = st.sidebar.file_uploader("Choose a file")
+if uploaded_file is not None:
+    bytes_data = uploaded_file.getvalue()
+    data = bytes_data.decode("utf-8")
+    df = preprocessor.preprocess(data)
+    df=df[df['user']!='group_notification']
+    st.dataframe(df)
+
+    user_list = df['user'].unique().tolist()
+    if '' in user_list:
+        user_list.remove('')
+
+    user_list.sort()
+    user_list.insert(0, "Overall")
+
+    selected_user = st.sidebar.selectbox("Show Analysis wrt", user_list)
+
+    if st.sidebar.button("Show Analysis"):
+
+        num_messages, words, num_media_messages, num_links = helper.fetch_stats(selected_user, df)
+
+        col1, col2, col3, col4 = st.columns(4)
+        st.title("Top Statistics")
+        with col1:
+            st.header("Total Messages")
+            st.title(num_messages)
+        with col2:
+            st.header("Total Words")
+            st.title(words)
+        with col3:
+            st.header("Media Shared")
+            st.title(num_media_messages)
+        with col4:
+            st.header("Links Shared")
+            st.title(num_links)
+
+        st.title('Monthly Timeline')
+        timeline = helper.monthly_timeline(selected_user, df)
+        fig, ax = plt.subplots()
+        ax.plot(timeline['time'], timeline['message'], color= 'green')
+        plt.xticks(rotation='vertical')
+        st.pyplot(fig)
+
+        st.title('Daily Timeline')
+        daily_timeline = helper.daily_timeline(selected_user, df)
+        fig, ax = plt.subplots()
+        ax.plot(daily_timeline['only_date'], daily_timeline['message'], color= 'black')
+        plt.xticks(rotation='vertical')
+        st.pyplot(fig)
+
+        st.title('Activity Map')
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.header("Most Busy Day")
+            busy_day = helper.week_activity_map(selected_user, df)
+            fig, ax = plt.subplots()
+            ax.bar(busy_day.index, busy_day.values)
+            st.pyplot(fig)
+        with col2:
+            st.header("Most Busy month")
+            busy_month = helper.month_activity_map(selected_user, df)
+            fig, ax = plt.subplots()
+            ax.bar(busy_month.index, busy_month.values, color = 'orange')
+            plt.xticks(rotation='vertical')
+            st.pyplot(fig)
+
+        st.title("Weekly Activity")
+        user_heatmap = helper.activity_heatmap(selected_user, df)
+        fig, ax = plt.subplots()
+        ax = sns.heatmap(user_heatmap)
+        st.pyplot(fig)
+
+        if selected_user == 'Overall':
+            st.title('Most Busy Users')
+            x, new_df = helper.most_busy_users(df)
+            fig, ax = plt.subplots()
+            col1, col2 = st.columns(2)
+
+            with col1:
+                ax.bar(x.index, x.values, color='red')
+                plt.xticks(rotation='vertical')
+                st.pyplot(fig)
+            with col2:
+                st.dataframe(new_df)
+
+        st.title("Word Cloud")
+        df_wc = helper.create_wordcloud(selected_user, df)
+        fig, ax = plt.subplots()
+        ax.imshow(df_wc)
+        st.pyplot(fig)
+
+        most_common_df = helper.most_common_words(df, selected_user)
+        fig, ax = plt.subplots()
+        ax.barh(most_common_df[0],most_common_df[1])
+        plt.xticks(rotation='vertical')
+        st.title('Most Common Words')
+        st.pyplot(fig)
+
+        emoji_df = helper.emoji_helper(selected_user, df)
+        st.title("Emoji Analysis")
+
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.dataframe(emoji_df)
+        with col2:
+            fig, ax = plt.subplots()
+            ax.pie(emoji_df[1].head(), labels = emoji_df[0].head(), autopct="%0.2f")
+            st.pyplot(fig)
+
+
+        st.title("Sentiment Analysis")
+        sentiment_results = helper.sentiment_analysis(df)
+        sentiment_df = pd.DataFrame({'Sentiment Polarity': sentiment_results['Sentiment Polarity']})
+        st.write(sentiment_df)
+        st.write("Positive messages:", sentiment_results['Positive'])
+        st.write("Negative messages:", sentiment_results['Negative'])
+        st.write("Neutral messages:", sentiment_results['Neutral'])
+        st.write("Positive Percentage:", sentiment_results['Positive Percentage'], "%")
+        st.write("Negative Percentage:", sentiment_results['Negative Percentage'], "%")
+        st.write("Neutral Percentage:", sentiment_results['Neutral Percentage'], "%")
+
+        fig, ax=plt.subplots()
+        ax.hist(sentiment_results['Sentiment Polarity'], bins=20)
+        ax.set_xlabel('Sentiment Polarity')
+        ax.set_ylabel('Count')
+        ax.set_title('Sentiment Polarity Histogram')
+        st.pyplot(fig)
+
+        st.title("Sentiment Analysis by Person")
+        person_sentiment_results = helper.sentiment_analysis_by_person(df)
+        st.write("Sentiment Analysis by Person:")
+        st.write(person_sentiment_results)
+
+        most_negative_person = person_sentiment_results.sort_values(by='Negative Percentage', ascending=False).index[0]
+        most_positive_person = person_sentiment_results.idxmax()['Positive Percentage']
+        most_neutral_person = person_sentiment_results.idxmax()['Neutral Percentage']
+
+        st.write("Most Negative Person:", most_negative_person)
+        st.write("Most Positive Person:", most_positive_person)
+        st.write("Most Neutral Person:", most_neutral_person)
+
+        if selected_user in [most_negative_person, most_positive_person]:
+            st.title(f"Words for {selected_user}")
+
+            # Fetching sentiment polarity for the selected user
+            user_sentiment = person_sentiment_results.loc[selected_user, 'Sentiment Polarity']
+
+            # Filter messages for the selected user based on sentiment polarity
+            user_messages = df[df['user'] == selected_user]['message']
+            negative_messages = [message for message, sentiment in zip(user_messages, user_sentiment) if sentiment < 0]
+            positive_messages = [message for message, sentiment in zip(user_messages, user_sentiment) if sentiment > 0]
+
+            # Joining the messages to create strings
+            negative_text = ' '.join(negative_messages)
+            positive_text = ' '.join(positive_messages)
+
+            # Displaying negative and positive word clouds
+            negative_wordcloud = helper.create_wordcloud_for_sentiment(user_sentiment, negative_text, 'negative')
+            positive_wordcloud = helper.create_wordcloud_for_sentiment(user_sentiment, positive_text, 'positive')
+
+            st.title("Word Cloud for Negative Statements")
+            st.image(negative_wordcloud.to_array(), use_column_width=True)
+
+            st.title("Word Cloud for Positive Statements")
+            st.image(positive_wordcloud.to_array(), use_column_width=True)
+4/3/24, 11:15 - Joni CSE: helper.py:
+from urlextract import URLExtract
+from wordcloud import WordCloud
+import pandas as pd
+from collections import Counter
+import emoji
+from textblob import TextBlob
+
+extract = URLExtract()
+
+def fetch_stats(selected_user, df):
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+
+    num_messages = df.shape[0]
+
+    words = []
+    for message in df['message']:
+        words.extend(message.split())
+
+    num_media_message = df[df['message'] == '<Media omitted>\n'].shape[0]
+
+    links = []
+    for message in df['message']:
+        links.extend(extract.find_urls(message))
+
+    return num_messages, len(words), num_media_message, len(links)
+
+
+def most_busy_users(df):
+    df_filtered = df[df['user']!='group_notification']
+    x=df_filtered['user'].value_counts().head()
+
+    df_percentage = (round((df_filtered['user'].value_counts() / df_filtered.shape[0]) * 100, 2)
+                     .reset_index().rename(columns={'index': 'percent', 'user': 'name'}))
+    return x, df_percentage
+
+def create_wordcloud(selected_user, df):
+    f = open("C:/Users/Joni/OneDrive/Desktop/JNTUK-UCEN/COLLEGE FILES/stop_words.txt", "r")
+    stop_words = f.read()
+
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+
+    temp = df[df['user'] != 'group_notification']
+    temp = temp[temp['message'] != '<Media ommited>\n']
+
+    def remove_stop_words(message):
+        y = []
+        for word in message.lower().split():
+            if word not in stop_words:
+                y.append(word)
+        return " ".join(y)
+
+    wc = WordCloud(width=500, height=500, min_font_size=10, background_color='white')
+    temp['message'] = temp['message'].apply(remove_stop_words)
+    df_wc = wc.generate(df['message'].str.cat(sep=' '))
+    return df_wc
+
+
+def most_common_words(df, selected_user):
+    f = open("C:/Users/Joni/OneDrive/Desktop/JNTUK-UCEN/COLLEGE FILES/stop_words.txt", "r")
+    stop_words = f.read()
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+
+    temp = df[df['user'] != 'group_notification']
+    temp = temp[temp['message'] != '<Media omitted>\n']
+
+    words = []
+    for message in temp['message']:
+        for word in message.lower().split():
+            if word not in stop_words:
+                words.append(word)
+    most_common_df = pd.DataFrame(Counter(words).most_common(20))
+    return most_common_df
+
+
+def emoji_helper(selected_user, df):
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+    df=df[df['user'] != 'group_notification']
+
+    emojis = []
+    for message in df['message']:
+        for c in message:
+            if emoji.is_emoji(c):
+                emojis.append(c)
+
+    emoji_df = pd.DataFrame(Counter(emojis).most_common(len(Counter(emojis))))
+    return emoji_df
+
+
+def monthly_timeline(selected_user, df):
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+    df=df[df['user'] != 'group_notification']
+
+    timeline = df.groupby(['year', 'month_num', 'month']).count()['message'].reset_index()
+
+    time = []
+    for i in range(timeline.shape[0]):
+        time.append(timeline['month'][i] + "-" + str(timeline['year'][i]))
+
+    timeline['time'] = time
+
+    return timeline
+
+
+def daily_timeline(selected_user, df):
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+    df = df[df['user'] != 'group_notification']
+
+    daily_timeline = df.groupby('only_date').count()['message'].reset_index()
+
+    return daily_timeline
+
+
+def week_activity_map(selected_user, df):
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+    df=df[df['user'] != 'group_notification']
+
+    return df['day_name'].value_counts()
+
+
+def month_activity_map(selected_user, df):
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+    df=df[df['user'] != 'group_notification']
+
+    return df['month'].value_counts()
+
+
+def activity_heatmap(selected_user, df):
+    if selected_user != 'Overall':
+        df = df[df['user'] == selected_user]
+    df=df[df['user'] != 'group_notification']
+
+    user_heatmap = df.pivot_table(index='day_name', columns='period', values='message', aggfunc='count').fillna(0)
+    return user_heatmap
+
+def sentiment_analysis(df):
+    sentiments = []
+    for message in df['message']:
+        blob = TextBlob(message)
+        sentiments.append(blob.sentiment.polarity)
+    # Count positive, negative, and neutral sentiments
+    positive_count = sum(1 for sentiment in sentiments if sentiment > 0)
+    negative_count = sum(1 for sentiment in sentiments if sentiment < 0)
+    neutral_count = sum(1 for sentiment in sentiments if sentiment == 0)
+
+    # Calculate percentages
+    total_count = len(sentiments)
+    positive_percentage = (positive_count / total_count) * 100
+    negative_percentage = (negative_count / total_count) * 100
+    neutral_percentage = (neutral_count / total_count) * 100
+
+    return {
+        'Positive': positive_count,
+        'Negative': negative_count,
+        'Neutral': neutral_count,
+        'Positive Percentage': positive_percentage,
+        'Negative Percentage': negative_percentage,
+        'Neutral Percentage': neutral_percentage,
+        'Sentiment Polarity': sentiments
+    }
+
+def filter_messages_by_sentiment(sentiments, messages, polarity):
+    filtered_messages = []
+    for sentiment, message in zip(sentiments, messages):
+        if (sentiment > 0 and polarity == 'positive') \
+            or (sentiment < 0 and polarity == 'negative') \
+            or (sentiment == 0 and polarity == 'neutral'):
+            filtered_messages.append(message)
+    return filtered_messages
+
+
+def sentiment_analysis_by_person(df):
+    unique_users = df['user'].unique()
+    sentiment_results = []
+    for user in unique_users:
+        user_df = df[df['user'] == user]
+        sentiment_result = sentiment_analysis(user_df)
+        sentiment_results.append(sentiment_result)
+    sentiment_df = pd.DataFrame(sentiment_results, index=unique_users)
+    return sentiment_df
+4/3/24, 11:15 - Joni CSE: preproccesor.py:
+import re
+import pandas as pd
+def preprocess(data):
+    pattern = '\d{1,2}/\d{1,2}/\d{2,4},\s\d{1,2}:\d{2}\s-\s'
+    messages=re.split(pattern, data)[1:]
+    dates=re.findall(pattern, data)
+    df=pd.DataFrame({'user_message': messages, 'message_date': dates})
+    df['message_date']=pd.to_datetime(df['message_date'], format='%d/%m/%y, %H:%M - ')
+    df.rename(columns={'message_date':'date'},inplace=True)
+
+    users=[]
+    messages=[]
+    for message in df['user_message']:
+        entry=re.split('([\w\W]+?):\s', message)
+        if entry[1:]:
+            users.append(entry[1])
+            messages.append(entry[2])
+        else:
+            users.append('group_notification')
+            messages.append(entry[0])
+
+    df['user'] = users
+    df['message'] = messages
+    df.drop(columns = ['user_message'], inplace = True)
+    df['only_date'] = df['date'].dt.date
+    df['year'] = df['date'].dt.year
+    df['month_num'] = df['date'].dt.month
+    df['month'] = df['date'].dt.month_name()
+    df['day'] = df['date'].dt.day
+    df['day_name'] = df['date'].dt.day_name()
+    df['hour'] = df['date'].dt.hour
+    df['minute'] = df['date'].dt.minute
+
+    period = []
+    for hour in df[['day_name', 'hour']]['hour']:
+        if hour == 23:
+            period.append(str(hour)+"-"+str('00'))
+        elif hour == 0:
+            period.append(str('00')+"-"+str(hour+1))
+        else:
+            period.append(str(hour)+"-"+str(hour+1))
+
+    df['period'] = period
+
+    return df
+4/4/24, 12:09 - JayaLakshmi CSE: Hii
+4/4/24, 12:09 - JayaLakshmi CSE: Joni
+4/4/24, 12:09 - JayaLakshmi CSE: Okasari velli sir ki choopisthava
+4/4/24, 12:09 - JayaLakshmi CSE: Malli ravali ante mem permission tesukoni ravali kadha
+4/4/24, 12:09 - JayaLakshmi CSE: Ivvala kani repu kani try cheu
+4/4/24, 12:09 - Joni CSE: Hi
+4/4/24, 12:10 - JayaLakshmi CSE: Ha
+4/4/24, 12:10 - Joni CSE: Sir ki phone kaani msg kaani chesthe
+4/4/24, 12:10 - JayaLakshmi CSE: Ala vodhu
+4/4/24, 12:10 - Joni CSE: Okkallane rammante nenu veltha
+4/4/24, 12:10 - JayaLakshmi CSE: Sir nen amaina kali aa antaru
+4/4/24, 12:11 - JayaLakshmi CSE: Ivvala kastam emo
+4/4/24, 12:11 - JayaLakshmi CSE: Okasari @918985042381 choosava code
+4/4/24, 12:11 - JayaLakshmi CSE: Ok ante
+4/4/24, 12:11 - JayaLakshmi CSE: Repu tanani pampidham
+4/4/24, 12:11 - JayaLakshmi CSE: Documents avi chesi
+4/4/24, 16:00 - JayaLakshmi CSE: Hii
+4/4/24, 16:00 - JayaLakshmi CSE: @918985042381
+4/4/24, 16:00 - JayaLakshmi CSE: Koncham reply ivvu
+4/4/24, 16:07 - Lokesh Sinha: Repu holiday clg
+4/4/24, 16:07 - JayaLakshmi CSE: Yy
+4/4/24, 16:07 - JayaLakshmi CSE: Second saturday na
+4/4/24, 16:07 - Lokesh Sinha: Babu jagan jeevan Rao jayanthi
+4/4/24, 16:08 - JayaLakshmi CSE: 🤦‍♀️🤦‍♀️
+4/5/24, 11:03 - Lokesh Sinha: joni...
+4/5/24, 11:03 - Lokesh Sinha: code motham zip file pampu
+4/5/24, 11:03 - Lokesh Sinha: ippudu document create cheyala malli @917670940241
+4/5/24, 11:03 - JayaLakshmi CSE: I think so
+4/5/24, 11:07 - JayaLakshmi CSE: Repu vellali anta
+4/5/24, 11:09 - Lokesh Sinha: Evaru
+4/5/24, 11:10 - JayaLakshmi CSE: Repu vellala manam kuda clg ki
+4/5/24, 11:10 - JayaLakshmi CSE: Okasari joni ni pampudham aa
+4/5/24, 11:10 - Lokesh Sinha: Enti vellali antey nv vacheystava enti
+4/5/24, 11:11 - JayaLakshmi CSE: Nuv velli ravachu ga
+4/5/24, 11:11 - Lokesh Sinha: 🥲🥲
+4/5/24, 11:11 - JayaLakshmi CSE: Naku avvadhu emo choosthunna
+4/5/24, 11:11 - Lokesh Sinha: Chaala rojulu taravata intiki vacha andi
+4/5/24, 11:12 - JayaLakshmi CSE: Ohk
+4/5/24, 12:22 - JayaLakshmi CSE: Ippudu em  cheyali manam vellala
+4/5/24, 12:23 - Lokesh Sinha: Aavsaram leydhu joni veltadu adhi 20 lopu chaalu
+4/5/24, 13:13 - Joni CSE: Nenu vellaka andharu raavaali ante em cheyyali ra
+4/5/24, 13:14 - Lokesh Sinha: Last time matladam le raa ravadam kastam ani
+4/5/24, 13:33 - Lokesh Sinha: @919177081360 ....
+4/5/24, 13:57 - Joni CSE: Ok annaara
+4/5/24, 13:57 - Lokesh Sinha: Ha ok raa
+4/5/24, 13:58 - Joni CSE: 1hr aagu
+4/5/24, 15:28 - JayaLakshmi CSE: Koncham fast ga choodandi
+4/5/24, 15:28 - JayaLakshmi CSE: Code
+4/5/24, 15:28 - JayaLakshmi CSE: Nen sir ki call chesi adugutha
+4/5/24, 15:42 - Joni CSE: <Media omitted>
+4/5/24, 15:42 - Joni CSE: code open avuthundha
+4/5/24, 15:43 - Joni CSE: @917670940241 cheppu
+4/5/24, 15:43 - JayaLakshmi CSE: Nen cheyale
+4/5/24, 15:43 - JayaLakshmi CSE: Na dantlo run avvaled ani
+4/5/24, 15:44 - Joni CSE: run cheyyamala file download chesina tharvatha code kanipisthundha ani
+4/5/24, 15:44 - JayaLakshmi CSE: Ok
+4/5/24, 17:47 - Joni CSE: Hlo
+4/5/24, 17:48 - JayaLakshmi CSE: Hi
+4/5/24, 17:48 - Joni CSE: Repu nenu CLG ki document em teesukuvellali
+4/5/24, 17:48 - JayaLakshmi CSE: Wait I will say
+4/5/24, 20:27 - Joni CSE: ...
+4/5/24, 20:27 - Lokesh Sinha: Rep velakarle raa.... Code inka chaala change cheyali
+4/5/24, 20:29 - Joni CSE: em cheyyali ra
+4/5/24, 20:32 - Lokesh Sinha: Manam project name enti raa
+4/5/24, 20:33 - Vijay CSE: Kompa lo kumpati
+4/5/24, 20:37 - Lokesh Sinha: WhatsApp Chat analysis using BERT adhi ekkada code lo use cheyale
+4/5/24, 20:37 - Lokesh Sinha: Adhi cheysi peydata tarvata velduvu
+4/5/24, 20:40 - JayaLakshmi CSE: Ha ok
+4/5/24, 20:41 - JayaLakshmi CSE: Monday ki vellandi
+4/5/24, 20:41 - JayaLakshmi CSE: Ayithada
+4/5/24, 20:41 - JayaLakshmi CSE: Monday ki
+4/5/24, 20:48 - Joni CSE: ...
+4/5/24, 20:49 - JayaLakshmi CSE: Bert algo use cheyali
+4/7/24, 20:28 - Joni CSE: Hi
+4/7/24, 22:34 - Lokesh Sinha: Cheppu joni
+4/8/24, 06:36 - Joni CSE: Nenu vellala vadha cheppandi ra
+4/8/24, 06:37 - Joni CSE: CLG ki
+4/8/24, 06:54 - Lokesh Sinha: Appudey vadhu ra kangaru padaku ... Nenu chepta
+4/8/24, 07:13 - Joni CSE: Sir emi anara late chesthe
+4/8/24, 07:27 - Lokesh Sinha: Thappadhu raa
+4/8/24, 07:36 - Joni CSE: Marks thaggisthaaremo ra
+4/8/24, 07:37 - Joni CSE: inka em cheyyalo cheppu asalu
+4/8/24, 09:23 - JayaLakshmi CSE: Inka code tym pattidha
+4/8/24, 11:43 - Lokesh Sinha: Haa pateylaney vundhi
+4/8/24, 11:46 - JayaLakshmi CSE: Enni days
+4/8/24, 11:46 - JayaLakshmi CSE: Ante appudiki ayidi
